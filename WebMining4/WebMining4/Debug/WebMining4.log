@@ -1,0 +1,74 @@
+﻿Build started 2012-04-27 14:03:31.
+     1>Project "c:\Users\Filip\documents\visual studio 2010\Projects\WebMining4\WebMining4\WebMining4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\WebMining4.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab.cpp
+         lab.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\debug\error.h(64): error C2470: 'CLuceneError' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\stdheader.h(38): error C2628: 'CLUCENE_EXPORT' followed by 'void' is illegal (did you forget a ';'?)
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(13): error C2065: 'util' : undeclared identifier
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(15): error C2143: syntax error : missing ';' before ''template<''
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16): error C2146: syntax error : missing ';' before identifier 'ArrayBase'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16): error C2470: 'ArrayBase' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16): error C2059: syntax error : '{'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(144): error C2146: syntax error : missing ';' before identifier 'ObjectArray'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(144): error C2470: 'ObjectArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(144): error C2059: syntax error : 'public'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(185): error C2146: syntax error : missing ';' before identifier 'Array'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(185): error C2470: 'Array' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(185): error C2059: syntax error : 'public'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(204): error C2146: syntax error : missing ';' before identifier 'ValueArray'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(204): error C2470: 'ValueArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(204): error C2059: syntax error : 'public'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(223): error C2146: syntax error : missing ';' before identifier 'ConstValueArray'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(223): error C2470: 'ConstValueArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(223): error C2059: syntax error : 'public'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(238): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(238): error C2470: 'TCharArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(261): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(261): error C2470: 'CharArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(281): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(281): error C2470: 'TCharConstArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(299): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(299): error C2470: 'CharConstArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(316): error C2146: syntax error : missing ';' before identifier 'RefCountArray'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(316): error C2470: 'RefCountArray' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(316): error C2059: syntax error : 'public'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\xfunctional(18): error C2143: syntax error : missing ';' before 'namespace'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\xfunctional(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(17): error C2065: 'util' : undeclared identifier
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(23): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(23): error C2448: 'CL_NS_DEF' : function-style initializer appears to be a function definition
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(23): error C2470: 'Equals' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(64): error C2470: 'NamedObject' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(70): error C2470: 'Comparable' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(79): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(79): error C2470: 'Compare' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C2146: syntax error : missing ';' before identifier 'compare'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C2065: 'Comparable' : undeclared identifier
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C2065: 'o1' : undeclared identifier
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C2065: 'Comparable' : undeclared identifier
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C2065: 'o2' : undeclared identifier
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(177): error C2078: too many initializers
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(183): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(183): error C2470: 'AbstractDeletor' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(188): error C2990: 'CLUCENE_INLINE_EXPORT' : non-class template has already been declared as a class template
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\array.h(16) : see declaration of 'CLUCENE_INLINE_EXPORT'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\equators.h(188): error C2470: 'Deletor' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\clucene\util\voidlist.h(11): fatal error C1083: Cannot open include file: 'CLucene/LuceneThreads.h': No such file or directory
+     1>Done Building Project "c:\Users\Filip\documents\visual studio 2010\Projects\WebMining4\WebMining4\WebMining4.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.88

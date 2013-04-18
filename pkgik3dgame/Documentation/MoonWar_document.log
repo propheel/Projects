@@ -1,0 +1,176 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=latex 2010.11.29)  29 NOV 2010 18:24
+entering extended mode
+**MoonWar_document.tex
+
+("C:\Users\Antek\Documents\IFE\7th semester\Programowanie kart graficznych i ko
+nsol\3D Game\Moon war\MoonWar_document.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\mwcls\mwart.cls"
+Document Class: mwart 2009/09/27 v0.74 A LaTeX document class (MW)
+*** Beta version. Formatting may change
+*** in future versions of this class.
+\l@nohyphenation=\language70
+("C:\Program Files\MiKTeX 2.9\tex\latex\mwcls\mw11.clo"
+File: mw11.clo 2009/09/27 v0.74 A document class size option (MW)
+)
+\@parindent=\dimen102
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\polish.ldf"
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen104
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen105
+\pl@down=\dimen106
+\pl@right=\dimen107
+\pl@temp=\dimen108
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\Cp1250.def"
+File: cp1250.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot4enc.def"
+File: ot4enc.def 2005/09/27 v1.99g Standard LaTeX file
+)
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 100.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen109
+\Gin@req@width=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read1
+)
+("C:\Users\Antek\Documents\IFE\7th semester\Programowanie kart graficznych i ko
+nsol\3D Game\Moon war\MoonWar_document.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 27.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd"
+File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+[1
+
+] [2] [3]
+("C:\Users\Antek\Documents\IFE\7th semester\Programowanie kart graficznych i ko
+nsol\3D Game\Moon war\MoonWar_document.aux") ) 
+Here is how much of TeX's memory you used:
+ 1472 strings out of 494020
+ 18310 string characters out of 3146520
+ 69636 words of memory out of 3000000
+ 4777 multiletter control sequences out of 15000+200000
+ 9480 words of font info for 30 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 25i,7n,24p,526b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on MoonWar_document.dvi (3 pages, 10664 bytes).

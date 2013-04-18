@@ -1,0 +1,43 @@
+﻿Build started 2012-04-27 15:02:22.
+     1>Project "C:\Users\Filip\documents\visual studio 2010\Projects\WebMining4\WebMining4\WebMining4.vcxproj" on node 2 (ClCompile target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Filip\documents\visual studio 2010\Projects\WebMining4\Release\".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab.cpp
+         lab.cpp
+     1>lab.cpp(1): error C2470: 'C' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>lab.cpp(1): error C2017: illegal escape sequence
+     1>lab.cpp(1): error C2017: illegal escape sequence
+     1>lab.cpp(1): error C2061: syntax error : identifier 'Files'
+     1>lab.cpp(1): error C2017: illegal escape sequence
+     1>lab.cpp(3): error C2059: syntax error : 'using'
+     1>lab.cpp(3): error C2630: ';' found in what should be a comma-separated list
+     1>lab.cpp(4): error C2059: syntax error : 'using'
+     1>lab.cpp(4): error C2630: ';' found in what should be a comma-separated list
+     1>lab.cpp(5): error C2059: syntax error : 'using'
+     1>lab.cpp(5): error C2630: ';' found in what should be a comma-separated list
+     1>lab.cpp(6): error C2059: syntax error : 'using'
+     1>lab.cpp(6): error C2630: ';' found in what should be a comma-separated list
+     1>lab.cpp(7): error C2059: syntax error : 'using'
+     1>lab.cpp(7): error C2630: ';' found in what should be a comma-separated list
+     1>lab.cpp(8): error C2059: syntax error : 'const'
+     1>lab.cpp(8): error C2630: ';' found in what should be a comma-separated list
+     1>lab.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>lab.cpp(18): error C2143: syntax error : missing ';' before '*'
+     1>lab.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>lab.cpp(19): error C3861: '_T': identifier not found
+     1>lab.cpp(20): error C3861: '_T': identifier not found
+     1>lab.cpp(21): error C3861: '_T': identifier not found
+     1>lab.cpp(22): error C3861: '_T': identifier not found
+     1>lab.cpp(23): error C3861: '_T': identifier not found
+     1>lab.cpp(24): error C3861: '_T': identifier not found
+     1>lab.cpp(26): error C2065: 'NULL' : undeclared identifier
+     1>lab.cpp(27): error C2065: 'int32_t' : undeclared identifier
+     1>lab.cpp(27): error C2062: type 'char' unexpected
+     1>lab.cpp(28): error C2143: syntax error : missing ';' before '{'
+     1>lab.cpp(28): error C2447: '{' : missing function header (old-style formal list?)
+     1>Done Building Project "C:\Users\Filip\documents\visual studio 2010\Projects\WebMining4\WebMining4\WebMining4.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.85

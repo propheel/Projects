@@ -1,0 +1,19 @@
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.Properties.Resources.resources
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\bin\Debug\WebMining1.exe
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\bin\Debug\WebMining1.pdb
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.exe
+c:\documents and settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.pdb
+C:\Documents and Settings\admin\moje dokumenty\visual studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.CompareIntegers.resources
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.exe
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.pdb
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\bin\Debug\WebMining1.exe
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\bin\Debug\WebMining1.pdb
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.Properties.Resources.resources
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WebMining1\WebMining1\obj\x86\Debug\WebMining1.Form1.resources

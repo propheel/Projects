@@ -1,0 +1,478 @@
+
+
+
+informatyka  wikipedia wolna encyklopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alangaralangckbalangfaalangkkarabalangmznalangpsalangurtextdecorationnoneanewquickbar anewcolorba0000
+
+ cache key plwikiresourceloaderfilterminifycss7c88e2bcd56513749bec09a7e29cb3ffa 
+
+
+ifwindowmw
+mwconfigsetwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumber0wgpagenameinformatykawgtitleinformatykawgcurrevisionid30300873wgarticleid58106wgisarticletruewgactionviewwgusernamenullwgusergroupswgcategoriesinformatykawgbreakframesfalsewgpagecontentlanguageplwgseparatortransformtable	 	wgdigittransformtablewgrelevantpagenameinformatykawgrestrictioneditwgrestrictionmovewgsearchnamespaces0wgvectorenabledmodulescollapsiblenavtruecollapsibletabstrueeditwarningtrueexpandablesearchfalsefootercleanupfalsesectioneditlinksfalsesimplesearchtrueexperimentstruewgwikieditorenabledmodulestoolbartruedialogstruehidesigtruetemplateeditorfalsetemplatesfalsepreviewfalsepreviewdialogfalsepublishfalsetocfalsewgflaggedrevsparamstagsaccuracylevels1quality2pristine4wgstablerevisionid30300873wgcategorytreepagecategoryoptionsmode0hideprefix20showcounttruenamespacesfalsegeocitycountrywgnoticeprojectwikipedia
+ifwindowmw
+mwloaderimplementuseroptionsfunction$mwuseroptionssetccmeonemails0cols80datedefaultdiffonly0disablemail0disablesuggest0editfontdefaulteditondblclick0editsection1editsectiononrightclick0enotifminoredits0enotifrevealaddr0enotifusertalkpages1enotifwatchlistpages0extendwatchlist0externaldiff0externaleditor0fancysig0forceeditsummary0genderunknownhideminor0hidepatrolled0highlightbroken1imagesize2justify0math0minordefault0newpageshidepatrolled0nocache0noconvertlink0norollbackdiff0numberheadings0previewonfirst0previewontop1quickbar5rcdays7rclimit50rememberpassword0rows25searchlimit20showhiddencatsfalseshowjumplinks1shownumberswatching1showtoc1showtoolbar1skinvectorstubthreshold0thumbsize4underline2uselivepreview0usenewrc0watchcreations1watchdefault0
+watchdeletion0watchlistdays3watchlisthideanons0watchlisthidebots0watchlisthideliu0watchlisthideminor0watchlisthideown0watchlisthidepatrolled0watchmoves0wllimit250flaggedrevssimpleui1flaggedrevsstable0flaggedrevseditdiffstrueflaggedrevsviewdiffsfalsevectorsimplesearch1useeditwarning1vectorcollapsiblenav1usebetatoolbar1usebetatoolbarcgd1variantpllanguageplsearchns0truesearchns1falsesearchns2falsesearchns3falsesearchns4falsesearchns5falsesearchns6falsesearchns7falsesearchns8falsesearchns9falsesearchns10falsesearchns11falsesearchns12falsesearchns13falsesearchns14falsesearchns15falsesearchns100falsesearchns101falsesearchns102falsesearchns103falsegadgetmaps1gadgetenhancedsearch1gadgetheadingicons1gadgetreftoolbar1gadgeteditbuttons1gadgeteditsummaries1gadgetmysandbox1
+gadgeteditfirstsection1gadgeteditsummarywarning1gadgetwikibugs1gadgetnuxtbkeys1gadgetenhancedupload1gadgetfeaturedarticleslinks1gadgetmodifysectionstyle1gadgetsmallbibliography1gadgetgeonotice1mwloaderimplementusertokensfunction$mwusertokenssetedittoken+watchtokenfalse
+
+ cache key plwikiresourceloaderfilterminifyjs7721b0d250c831d70001d1d3c0349ca57 
+
+ifwindowmw
+mwloaderloadmediawikipagestartupmediawikilegacywikibitsmediawikilegacyajax
+
+bodybehaviorurlwskins119vectorcsshoverminhtc
+
+		
+		
+		
+		
+			
+			
+						
+			
+			
+						
+			
+				informatyka
+			
+			
+			
+			
+								
+				z wikipedii wolnej encyklopedii
+				
+								
+				
+				
+																
+				
+					skocz do nawigacji
+					szukaj
+				
+				
+								
+				 ten artykuł dotyczy dyscypliny nauki zobacz też informatyka miesięcznik
+informatyka  dyscyplina nauki zaliczana do nauk ścisłych oraz techniki zajmująca się przetwarzaniem informacji w tym również technologiami przetwarzania informacji oraz technologiami wytwarzania systemów przetwarzających informację początkowo stanowiła część matematyki później rozwinęła się do odrębnej dyscypliny  pozostaje jednak nadal w ścisłej relacji z matematyką dostarczającej informatyce podstaw teoretycznych
+
+
+
+
+spis treści
+
+
+1 nazewnictwo
+2 przegląd dyscyplin
+3 zobacz też
+4 przypisy
+5 linki zewnętrzne
+
+
+
+
+edytuj nazewnictwo
+określenie informatyka ma swój odpowiednik w języku angielskim computer science  dosłownie nauka o komputerze  co może być mylące i dlatego jest krytykowane w środowiskach akademickich i informatycznych1
+w języku polskim termin ten zaproponował w październiku 1968 r romuald marczyński w zakopanem na ogólnopolskiej konferencji poświęconej maszynom matematycznym na wzór fr informatique i niem informatik
+edytuj przegląd dyscyplin
+współczesna informatyka jest zarówno dyscypliną naukową podobnie jak fizyka lub chemia jak i szeroką dziedziną działalności gospodarczej tak że nie ma już tzw specjalistów od wszystkiego a bardziej znane i popularne działy informatyki to np w kolejności alfabetycznej
+
+administracja sieciowa  zarządzanie siecią komputerową
+administracja systemem  zarządzanie systemem informatycznym
+algorytmika  tworzenie i analizowanie algorytmów podstawowa najstarsza dyscyplina informatyki
+architektura procesorów  projektowanie procesorów bez których nie byłoby komputerów
+bezpieczeństwo komputerowe  dyscyplina łącząca informatykę z telekomunikacją w celu zapewnienia poufności i bezpieczeństwa danych
+grafika komputerowa  wykorzystuje technikę komputerową w celu wizualizacji rzeczywistości
+inżynieria oprogramowania  produkcja oprogramowania
+języki programowania  tworzenie języków programowania wyróżniająca się podstawowa dyscyplina informatyki
+programowanie  czyli tworzenie kodu źródłowego programów komputerowych najpopularniejsza dyscyplina informatyki
+sprzęt komputerowy  komputery i ich urządzenia peryferyjne
+symulacja komputerowa  komputerowa symulacja z wykorzystaniem modelowania matematycznego
+systemy informatyczne  tworzenie systemów informatycznych w celach użytkowych
+sztuczna inteligencja  komputerowe symulowanie inteligencji
+teoria informacji  dyscyplina zajmująca się problematyką informacji w tym teorią przetwarzania i przesyłania informacji
+webmastering  projektowanie programowanie i publikacja serwisów internetowych
+
+edytuj zobacz też
+
+
+portal
+informatyka
+
+
+
+wikiprojekt
+informatyka
+
+
+informacje w160siostrzanych projektach
+ 160ilustracje i media160 w wikimedia commons
+ 160definicje słownikowe160 w wikisłowniku
+ 160teksty źródłowe160 w wikiźródłach
+ 160cytaty160 w wikicytatach
+ 160wiadomości160 w wikinews
+ 160podręczniki160 w wikibooks
+
+informatyka przemysłowa
+technologia informacyjna
+
+przypisy
+
+
+ marian adamski informatyka  nauka sztuka czy rzemiosło uniwersytet zielonogórski  miesięcznik społeczności akademickiej 20023009 dostęp 26 lutego 2008
+
+
+edytuj linki zewnętrzne
+
+polskie towarzystwo informatyczne
+
+
+
+
+
+
+				
+								
+				
+				źródło httpplwikipediaorgwindexphptitle=informatykaampoldid=30300873				
+				
+												
+				kategoria informatyka				
+												
+				
+								
+			
+			
+		
+		
+		
+		
+			
+
+
+	osobiste
+	
+		logowanie i rejestracja
+	
+
+
+
+			
+				
+
+
+	przestrzenie nazw
+	
+					artykuł
+					dyskusja
+			
+
+
+
+
+
+
+	
+		
+	warianty
+	
+		
+					
+	
+
+
+
+			
+			
+				
+
+
+	widok
+	
+					czytaj
+					edytuj
+					historia i autorzy
+			
+
+
+
+
+
+
+	działania
+	
+		
+					
+	
+
+
+
+
+
+
+	szukaj
+	
+				
+																				
+		
+	
+
+
+
+			
+		
+		
+		
+			
+				
+					
+				
+				
+
+
+
+
+
+
+	nawigacja
+	
+		
+			strona główna
+			kategorie artykułów
+			najlepsze hasła
+			losuj artykuł
+		
+	
+
+
+
+
+
+
+	dla czytelników
+	
+		
+			zgłoś błąd
+			zgłoś błąd w pliku
+			częste pytania faq
+			strona kontaktowa
+			wykluczenie odpowiedzialności
+			wspomóż wikipedię
+		
+	
+
+
+
+
+
+
+	dla wikipedystów
+	
+		
+			ostatnie zmiany
+			zasady edytowania
+			pomoc
+			kawiarenka
+			ogłoszenia
+		
+	
+
+
+
+
+
+
+	narzędzia
+	
+		
+			linkujące
+			zmiany w dolinkowanych
+			strony specjalne
+			link do tej wersji
+cytowanie tego artykułu		
+	
+
+
+
+
+
+
+	drukuj lub eksportuj
+	
+		utwórz książkępobierz jako pdfwersja do druku	
+
+
+
+
+
+
+	w innych językach
+	
+		
+			afrikaans
+			alemannisch
+			አማርኛ
+			العربية
+			aragonés
+			অসমীয়া
+			asturianu
+			azərbaycanca
+			বাংলা
+			bânlâmgú
+			‪беларуская тарашкевіца‬
+			български
+			bosanski
+			brezhoneg
+			català
+			česky
+			dansk
+			deutsch
+			eesti
+			ελληνικά
+			emiliàn e rumagnòl
+			english
+			español
+			esperanto
+			estremeñu
+			euskara
+			فارسی
+			føroyskt
+			français
+			frysk
+			furlan
+			gaeilge
+			gaelg
+			galego
+			한국어
+			հայերեն
+			हिन्दी
+			hrvatski
+			ido
+			bahasa indonesia
+			interlingua
+			interlingue
+			ᐃᓄᒃᑎᑐᑦinuktitut
+			íslenska
+			italiano
+			עברית
+			kalaallisut
+			ಕನ್ನಡ
+			ქართული
+			kaszëbsczi
+			қазақша
+			kreyòl ayisyen
+			ladino
+			latgaļu
+			latina
+			latviešu
+			lëtzebuergesch
+			lietuvių
+			limburgs
+			lojban
+			magyar
+			македонски
+			malagasy
+			മലയാളം
+			bahasa melayu
+			монгол
+			nederlands
+			nedersaksisch
+			नेपाली
+			नेपाल भाषा
+			日本語
+			nordfriisk
+			‪norsk bokmål‬
+			‪norsk nynorsk‬
+			novial
+			occitan
+			олык марий
+			پښتو
+			picard
+			piemontèis
+			português
+			română
+			русиньскый
+			русский
+			shqip
+			sicilianu
+			සිංහල
+			simple english
+			slovenčina
+			slovenščina
+			српски  srpski
+			srpskohrvatski  српскохрватски
+			suomi
+			svenska
+			tagalog
+			தமிழ்
+			татарчаtatarça
+			ไทย
+			тоҷикӣ
+			türkçe
+			türkmençe
+			українська
+			اردو
+			ئۇيغۇرچە  uyghurche‎
+			vèneto
+			tiếng việt
+			võro
+			walon
+			winaray
+			wolof
+			吴语
+			yorùbá
+			粵語
+			zeêuws
+			žemaitėška
+			中文
+		
+	
+
+
+
+			
+		
+		
+		
+							
+											 tę stronę ostatnio zmodyfikowano 1511 19 mar 2012
+											tekst udostępniany na licencji creative commons uznanie autorstwa na tych samych warunkach z możliwością obowiązywania dodatkowych ograniczeń
+zobacz szczegółowe informacje o warunkach korzystania
+									
+							
+											zasady zachowania poufności
+											o wikipedii
+											korzystasz z wikipedii tylko na własną odpowiedzialność
+											wersja na komórkę
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+		
+ifwindowmw
+mwloaderloadmediawikiusermediawikipagereadymediawikilegacymwsuggestextgadgetmapsextgadgetenhancedsearchextgadgetheadingiconsextgadgetreftoolbarextgadgeteditbuttonsextgadgeteditsummariesextgadgetmysandboxextgadgeteditfirstsectionextgadgeteditsummarywarningextgadgetwikibugsextgadgetnuxtbkeysextgadgetenhanceduploadextgadgetfeaturedarticleslinksextgadgetmodifysectionstyleextgadgetsmallbibliographyextgadgetgeonoticeextvectorcollapsiblenavextvectorcollapsibletabsextvectoreditwarningextvectorsimplesearchextflaggedrevsadvanced null true
+
+
+
+
+	
+

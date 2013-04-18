@@ -1,0 +1,29 @@
+﻿1>------ Build started: Project: stripes, Configuration: Release x64 ------
+1>Build started 2012-05-11 21:02:41.
+1>InitializeBuildStatus:
+1>  Creating "x64\Release\stripes.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  CStripeGraph.cpp
+1>CStripeGraph.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>CStripeGraph.cpp(175): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>CStripeGraph.cpp(184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>CStripeGraph.cpp(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>CStripeGraph.cpp(210): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Link:
+1>  Generating code
+1>  Finished generating code
+1>  stripes.vcxproj -> C:\Users\Filip\Documents\Visual Studio 2010\Projects\stripes\x64\Release\stripes.exe
+1>Manifest:
+1>  
+1>mt.exe : general error c101008d: Failed to write the updated manifest to the resource of file "C:\Users\Filip\Documents\Visual Studio 2010\Projects\stripes\x64\Release\stripes.exe". Odmowa dostpu.
+1>  
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.95
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

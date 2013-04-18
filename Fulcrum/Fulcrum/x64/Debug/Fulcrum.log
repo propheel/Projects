@@ -1,0 +1,19 @@
+﻿Build started 2012-04-23 15:54:30.
+     1>Project "C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\Fulcrum\Fulcrum.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "x64\Debug\Fulcrum.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\x64\Debug\Fulcrum.exe" /INCREMENTAL:NO /NOLOGO alibcof64.lib "libboost_filesystem-vc100-mt-gd-1_49.lib" "libboost_system-vc100-mt-gd-1_49.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\Fulcrum.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\x64\Debug\Fulcrum.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\x64\Debug\Fulcrum.lib" /MACHINE:X64 x64\Debug\Fulcrum.obj
+         Fulcrum.vcxproj -> C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\x64\Debug\Fulcrum.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\x64\Debug\Fulcrum.exe;#1" /manifest x64\Debug\Fulcrum.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\Fulcrum.unsuccessfulbuild".
+         Touching "x64\Debug\Fulcrum.lastbuildstate".
+     1>Done Building Project "C:\Users\Filip\Documents\Visual Studio 2010\Projects\Fulcrum\Fulcrum\Fulcrum.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26

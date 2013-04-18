@@ -1,0 +1,27 @@
+﻿Build started 2012-05-08 20:37:23.
+     1>Project "c:\Users\Filip\documents\visual studio 2010\Projects\DiagSquares\DiagSquares\DiagSquares.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\filip\documents\visual studio 2010\Projects\DiagSquares\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\DiagSquares.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CUncompressedTile.cpp DS.cpp DSGraph.cpp
+         DSGraph.cpp
+     1>c:\users\filip\documents\visual studio 2010\projects\diagsquares\diagsquares\dsgraph.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         DS.cpp
+         CUncompressedTile.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DiagSquares.exe.embed.manifest.res" Debug\DiagSquares_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\filip\documents\visual studio 2010\Projects\DiagSquares\Debug\DiagSquares.exe" /INCREMENTAL /NOLOGO zlibstat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DiagSquares.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\filip\documents\visual studio 2010\Projects\DiagSquares\Debug\DiagSquares.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\filip\documents\visual studio 2010\Projects\DiagSquares\Debug\DiagSquares.lib" /MACHINE:X86 Debug\DiagSquares.exe.embed.manifest.res
+         Debug\CUncompressedTile.obj
+         Debug\DS.obj
+         Debug\DSGraph.obj
+     1>LINK : fatal error LNK1104: cannot open file 'zlibstat.lib'
+     1>Done Building Project "c:\Users\Filip\documents\visual studio 2010\Projects\DiagSquares\DiagSquares\DiagSquares.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.70

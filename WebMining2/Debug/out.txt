@@ -1,0 +1,27 @@
+Building dictionary...
+16375 keys - erasing stop words...
+16207 keys in the dictionary.
+Making vectors...
+Sorting measures...
+Showing 10 best matches:
+zoo5.txt - zoo1.txt : 0.5610
+inf2.txt - inf1.txt : 0.4240
+zoo1.txt - inf5.txt : 0.4066
+zoo5.txt - zoo3.txt : 0.3910
+zoo5.txt - inf5.txt : 0.3642
+muz4.txt - muz2.txt : 0.3501
+inf5.txt - inf2.txt : 0.3431
+zoo5.txt - inf2.txt : 0.3314
+zoo1.txt - inf2.txt : 0.3249
+zoo4.txt - inf3.txt : 0.3248
+Showing 10 worst matches:
+zoo3.txt - muz4.txt : 0.0601
+zoo3.txt - muz3.txt : 0.0653
+zoo3.txt - muz2.txt : 0.0707
+zoo3.txt - inf3.txt : 0.0708
+zoo4.txt - inf5.txt : 0.0772
+zoo3.txt - inf4.txt : 0.0873
+zoo4.txt - zoo3.txt : 0.0882
+zoo4.txt - inf2.txt : 0.0906
+zoo3.txt - inf1.txt : 0.1008
+muz5.txt - inf2.txt : 0.1013

@@ -1,0 +1,33 @@
+﻿Build started 2012-05-30 22:41:02.
+     1>Project "C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\LM\LM.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\LM2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt lm2.cpp
+         lm2.cpp
+     1>lm2.cpp(44): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : see declaration of 'itoa'
+     1>lm2.cpp(45): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : see declaration of 'itoa'
+     1>lm2.cpp(198): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : see declaration of 'itoa'
+     1>lm2.cpp(199): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : see declaration of 'itoa'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\x64\Release\LM2.exe" /INCREMENTAL:NO /NOLOGO zlibstat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\LM2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\x64\Release\LM2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\x64\Release\LM2.lib" /MACHINE:X64 x64\Release\BFBuffer.obj
+         x64\Release\CompressedBuffer.obj
+         x64\Release\lm2.obj
+         x64\Release\LMGraph.obj
+         Generating code
+         Finished generating code
+         LM.vcxproj -> C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\x64\Release\LM2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\x64\Release\LM2.exe;#1" /manifest x64\Release\LM2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\LM2.unsuccessfulbuild".
+         Touching "x64\Release\LM2.lastbuildstate".
+     1>Done Building Project "C:\Users\Filip\Documents\Visual Studio 2010\Projects\LM2\LM\LM.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.35

@@ -1,0 +1,34 @@
+Lista bug'ów w grze:
+
+- nie wiem czy to wina mojego kompa (bardzo prawdopodobne) czy
+  naszej gry, ale kiedy mam w³¹czon¹ muzykê w innym oknie (np.
+  otwartego youtube) w trakcie kiedy odpalana jest gra to w linijce,
+  w której wczytywany jest do contentu pierwszy dŸwiêk (shoot sound)
+  wyskakuje mi InvalidOperationException.
+
+- w kontrolerze do kamery s¹ pewnie te¿ u¿yte sta³e wartoœci (magic
+  numbers a nie s¹ one pobierane z GroundElementu - chodzi mi o
+  wymiary GroundElementu) przez co s¹ miejsca niedostêpne kamer¹,
+  a w prosty sposób mo¿e ich nie byæ
+
+
+- fightery wlatuj¹ pod ground element (nie spotka³em jeszcze) :D
+
+
+Rozwi¹zane:
+
+- bounding boxy nie pojawiaj¹ siê u nowo stworzonych elementów,
+  mimo ¿e jest w³¹czony tryb debug : doda³em zmienn¹ isInDebugMode
+  typu bool
+
+- na pocz¹tku niektóre, a z czasem wszystkie AlienCraft'y staj¹ w
+  miejscu zamiast lataæ zgodnie z Wander steering behaviour : by³o
+  to spowodowane z³ymi wymiarami mapy w sprawdzaniu czy nie
+  wyje¿d¿aj¹ poza teren. Zmieni³em to tak, ¿e u¿ywaj¹ teraz bezpoœrednio
+  wartoœci z odpowiedniej klasy i przesta³y siê ci¹æ (do tej pory
+  sprawdzane by³y kolizje dla magicznych wartoœci x = 201 y = 201 :D
+
+- fightery staj¹ sobie czasem w miejscu i nie chc¹ ju¿ ruszyæ : 
+  zabite alieny by³y usuwane z listy componentów, ale z listy
+  gameObject ju¿ nie, wiêc samoloty które je rozwali³y mia³y kolizje
+  z objekami które nie istnia³y.

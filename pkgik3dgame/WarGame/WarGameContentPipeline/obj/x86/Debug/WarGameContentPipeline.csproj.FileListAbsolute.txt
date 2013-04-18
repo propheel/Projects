@@ -1,0 +1,5 @@
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGameContentPipeline\bin\x86\Debug\WarGameContentPipeline.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGameContentPipeline\bin\x86\Debug\WarGameContentPipeline.pdb
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGameContentPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGameContentPipeline\obj\x86\Debug\WarGameContentPipeline.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGameContentPipeline\obj\x86\Debug\WarGameContentPipeline.pdb

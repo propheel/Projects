@@ -1,0 +1,109 @@
+\documentclass[11pt, a4paper, notitlepage, wide]{mwart}
+\usepackage[polish]{babel}
+\usepackage[Cp1250]{inputenc}
+\usepackage[OT4]{fontenc}
+
+\usepackage{graphicx}
+\usepackage{verbatim}
+
+%\usepackage{subfigure}
+\linespread{1.1}
+%\oddsidemargin = 20pt
+%%\textwidth = 490pt
+
+\begin{document}
+\author{Maciej Morawski \and Antoni Marasek}
+\title{Moon Wars}
+
+\maketitle
+
+\begin{center}
+\textbf{Game Design Document}
+
+\smallskip
+
+Game Engine Programming, 2010
+
+\texttt{morawskimck@gmail.com, antek@autograf.pl}
+\end{center}
+
+\section{Game type}
+
+Real-time strategy game  \{RTS\}.
+
+\section{Elevator pitch}
+
+Overcome all the obstacles and solve the mystery of the missing expedition...
+
+\section{Game description}
+
+In  the year 2023, scientists from the Technical University of £Ûdü reached the milestone in the field of energetics. They managed to synthesize new fuel, extremely efficient, but unfortunately too expensive to be massively used. LoDeX, as they called it, was the combination of the dry ice and coal. Fifty grams of that substance could produce as much energy as the medium nuclear bomb. Unfortunately, due to it's price it had to stay in the shadows of the laboratories only...\newline\newline
+Five years later, a probe sent to the moon discovered existence of the LoDeX in one of the craters. It was the chance to change the world's energetics and to solve many problems struggling the human race. Polish government started to organize the expedition of scientists from all over the world to analyze the space discovery. A group of fifty men took off from the Cape Canaveral on the June 23th. After a week of flight they reached the dark side of the moon...\newline\newline
+First investigations confirmed existence of the LoDeX. Moreover, the deposit was much more extensive than it was expected before. Unfortunately, the members of the expedition and the equipment started to get lost under the mysterious circumstances. After three days the contact with the expedition was lost too.\newline\newline
+The debate of the representatives from the countries taking part in the mission took place in Warsaw. It was decided to send the military unit consisting of ten fighters to the moon. You are the leader of that rescue team. Locate your base in the most appropriate place, produce the fighters and solve the mystery of the missing scientists... 
+
+\section{Architecture}
+
+\subsection{Game goals}
+
+The first goal of the player it is to place the main base which instantly starts to produce the fighters. Afterwards the player must destroy all the units of the enemy and reach the enemy base with one or more of his fighters.
+
+\subsection{Menu}
+The game starts with the menu.
+
+\begin{itemize}
+\item New Game item enables user to start new game
+\item Settings item opens the sub-menu enabling user to select the game resolution
+\item Exit item enables the user to leave the game. 
+\end{itemize}
+
+The user is able to enter the menu in any time of the game and use all the available options.
+
+\subsection{Main window}
+
+In the main window all the game elements \{units, buildings, ground surface and the skybox\} are visible and available to the user.
+
+\subsection{GUI}
+
+The game is controlled by the user with both the keyboard and mouse.
+
+The keyboard controlls:
+
+\begin{itemize}
+\item F - toggles full screen mode
+\item P - pauses the game
+\item B - toggles the debug mode
+\item C - places the human base
+\item W - moves forward camera spot
+\item S - moves backwards camera spot
+\item A - moves left camera spot
+\item D - moves right camera spot
+\item Up - zooms-up the camera
+\item Down - zooms-down the camera
+\item Left - turns left the camera
+\item Right - turns right the camera
+\end{itemize}
+
+Mouse controlls:
+
+\begin{itemize}
+\item Left mouse button click - selects single fighter, selects the seek point of the fighter, selects alien craft to be attacked
+\item Left mouse button scrolling - creates the selection rectangle which enables selection of more than one fighter
+\item Right mouse button click - deselection of fighters
+\end{itemize}
+
+\subsection{Units}
+
+\begin{itemize}
+\item Fighter - unit which belongs to the player, can be displaced and can attack alien units and buildings
+\item Alien craft - unit of the enemy, seeks the fighters if they are too close to it what makes harder to be hit
+\end{itemize}
+
+\subsection{Buildings}
+
+\begin{itemize}
+\item Human base - base of the human, has to be placed in the beggining of the game to enable the fighters dispatching
+\item Alien base - has to be destroyed by the player to win the game
+\end{itemize}
+
+\end{document}

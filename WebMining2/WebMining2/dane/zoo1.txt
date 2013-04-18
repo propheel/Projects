@@ -1,0 +1,448 @@
+﻿
+
+
+zoologia  wikipedia wolna encyklopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alangaralangckbalangfaalangkkarabalangmznalangpsalangurtextdecorationnoneanewquickbar anewcolorba0000
+
+ cache key plwikiresourceloaderfilterminifycss7c88e2bcd56513749bec09a7e29cb3ffa 
+
+
+ifwindowmw
+mwconfigsetwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumber0wgpagenamezoologiawgtitlezoologiawgcurrevisionid30347513wgarticleid7145wgisarticletruewgactionviewwgusernamenullwgusergroupswgcategorieszoologiawgbreakframesfalsewgpagecontentlanguageplwgseparatortransformtable	 	wgdigittransformtablewgrelevantpagenamezoologiawgrestrictioneditwgrestrictionmovewgsearchnamespaces0wgvectorenabledmodulescollapsiblenavtruecollapsibletabstrueeditwarningtrueexpandablesearchfalsefootercleanupfalsesectioneditlinksfalsesimplesearchtrueexperimentstruewgwikieditorenabledmodulestoolbartruedialogstruehidesigtruetemplateeditorfalsetemplatesfalsepreviewfalsepreviewdialogfalsepublishfalsetocfalsewgflaggedrevsparamstagsaccuracylevels1quality2pristine4wgstablerevisionid30347513wgcategorytreepagecategoryoptionsmode0hideprefix20showcounttruenamespacesfalsegeocitycountrywgnoticeprojectwikipedia
+ifwindowmw
+mwloaderimplementuseroptionsfunction$mwuseroptionssetccmeonemails0cols80datedefaultdiffonly0disablemail0disablesuggest0editfontdefaulteditondblclick0editsection1editsectiononrightclick0enotifminoredits0enotifrevealaddr0enotifusertalkpages1enotifwatchlistpages0extendwatchlist0externaldiff0externaleditor0fancysig0forceeditsummary0genderunknownhideminor0hidepatrolled0highlightbroken1imagesize2justify0math0minordefault0newpageshidepatrolled0nocache0noconvertlink0norollbackdiff0numberheadings0previewonfirst0previewontop1quickbar5rcdays7rclimit50rememberpassword0rows25searchlimit20showhiddencatsfalseshowjumplinks1shownumberswatching1showtoc1showtoolbar1skinvectorstubthreshold0thumbsize4underline2uselivepreview0usenewrc0watchcreations1watchdefault0
+watchdeletion0watchlistdays3watchlisthideanons0watchlisthidebots0watchlisthideliu0watchlisthideminor0watchlisthideown0watchlisthidepatrolled0watchmoves0wllimit250flaggedrevssimpleui1flaggedrevsstable0flaggedrevseditdiffstrueflaggedrevsviewdiffsfalsevectorsimplesearch1useeditwarning1vectorcollapsiblenav1usebetatoolbar1usebetatoolbarcgd1variantpllanguageplsearchns0truesearchns1falsesearchns2falsesearchns3falsesearchns4falsesearchns5falsesearchns6falsesearchns7falsesearchns8falsesearchns9falsesearchns10falsesearchns11falsesearchns12falsesearchns13falsesearchns14falsesearchns15falsesearchns100falsesearchns101falsesearchns102falsesearchns103falsegadgetmaps1gadgetenhancedsearch1gadgetheadingicons1gadgetreftoolbar1gadgeteditbuttons1gadgeteditsummaries1gadgetmysandbox1
+gadgeteditfirstsection1gadgeteditsummarywarning1gadgetwikibugs1gadgetnuxtbkeys1gadgetenhancedupload1gadgetfeaturedarticleslinks1gadgetmodifysectionstyle1gadgetsmallbibliography1gadgetgeonotice1mwloaderimplementusertokensfunction$mwusertokenssetedittoken+watchtokenfalse
+
+ cache key plwikiresourceloaderfilterminifyjs7721b0d250c831d70001d1d3c0349ca57 
+
+ifwindowmw
+mwloaderloadmediawikipagestartupmediawikilegacywikibitsmediawikilegacyajax
+
+bodybehaviorurlwskins119vectorcsshoverminhtc
+
+		
+		
+		
+		
+			
+			
+						
+			
+			
+						
+			
+				zoologia
+			
+			
+			
+			
+								
+				z wikipedii wolnej encyklopedii
+				
+								
+				
+				
+																
+				
+					skocz do nawigacji
+					szukaj
+				
+				
+								
+				
+
+część działu
+zoologii
+
+
+
+
+
+dziedziny zoologii
+
+
+
+antrozoologia  arachnologia  entomologia  etologia  herpetologia  ichtiologia  karcynologia konchiologia  malakologia  neuroetologia  ornitologia  planktologia  paleozoologia  teriologia  zoogeografia  zoopsychologia  zoosemiotyka
+
+
+
+słynni zoologowie
+
+
+
+louis agassiz  arystoteles
+georges cuvier  karol darwin
+william kirby  karol linneusz
+konrad lorenz  richard owen
+alfred russel wallace  więcej
+ten szablon160pokaż160160dyskusja160160edytuj
+
+
+
+zoologia od gr zoon = zwierzę i logos = słowo myśl rozumowanie  nauka o zwierzętach czyli wszystkich żywych organizmach zdolnych do przemieszczania i odżywiania się z wyjątkiem mikroorganizmów a także ich zachowaniach i budowie
+w skład zoologii wchodzą nauki zajmujące się poszczególnymi grupami zwierząt min protozoologia entomologia ichtiologia herpetologia ornitologia i teriologia gałęziami zoologii są także nauki o zwierzętach poprzednich epok paleozoologia i paleozoogeografia o strukturze populacji zwierzęcych i ich wzajemnym oddziaływaniu na środowisko ekologia czy zachowaniu i psychice zwierząt etologia zoopsychologia oraz nauki obejmujące systematykę wszystkich organizmów zwierzęcych także nauki zajmujące się budową i funkcjami ciała zwierząt np anatomia fizjologia morfologia embriologia cytologia
+pierwsze prace z dziedziny zoologii są autorstwa arystotelesa iv w pne spośród około 300 jego dzieł do najważniejszych należą zoologia historia naturalna zwierząt o częściach zwierząt oraz o pochodzeniu zwierząt arystoteles jest nazywany ojcem zoologii
+rewolucyjny wpływ na postęp zoologii wywarła teoria ewolucji darwina ogłoszona w wydanym w 1859 roku dziele o powstawaniu gatunków drogą doboru naturalnego która przyczyniła się do wyjaśnienia min procesów i zjawisk z zakresu ewolucji i embriologii a także anatomii porównawczej
+do czasopism naukowych z dziedziny zoologii ukazujących się w polsce należą min annales zoologici zoologica poloniae acta palaeontologica polonica przegląd zoologiczny wiadomości entomologiczne
+edytuj zobacz też
+
+
+
+
+zobacz hasło zoologia w160wikisłowniku
+
+
+mikrobiologia
+zoogeografia
+kryptozoologia
+zoolog
+
+edytuj linki zewnętrzne
+
+zoologia w katalogu open directory project
+
+
+
+portal
+zoologia
+
+
+
+
+
+
+				
+								
+				
+				źródło httpplwikipediaorgwindexphptitle=zoologiaampoldid=30347513				
+				
+												
+				kategoria zoologia				
+												
+				
+								
+			
+			
+		
+		
+		
+		
+			
+
+
+	osobiste
+	
+		logowanie i rejestracja
+	
+
+
+
+			
+				
+
+
+	przestrzenie nazw
+	
+					artykuł
+					dyskusja
+			
+
+
+
+
+
+
+	
+		
+	warianty
+	
+		
+					
+	
+
+
+
+			
+			
+				
+
+
+	widok
+	
+					czytaj
+					edytuj
+					historia i autorzy
+			
+
+
+
+
+
+
+	działania
+	
+		
+					
+	
+
+
+
+
+
+
+	szukaj
+	
+				
+																				
+		
+	
+
+
+
+			
+		
+		
+		
+			
+				
+					
+				
+				
+
+
+
+
+
+
+	nawigacja
+	
+		
+			strona główna
+			kategorie artykułów
+			najlepsze hasła
+			losuj artykuł
+		
+	
+
+
+
+
+
+
+	dla czytelników
+	
+		
+			zgłoś błąd
+			zgłoś błąd w pliku
+			częste pytania faq
+			strona kontaktowa
+			wykluczenie odpowiedzialności
+			wspomóż wikipedię
+		
+	
+
+
+
+
+
+
+	dla wikipedystów
+	
+		
+			ostatnie zmiany
+			zasady edytowania
+			pomoc
+			kawiarenka
+			ogłoszenia
+		
+	
+
+
+
+
+
+
+	narzędzia
+	
+		
+			linkujące
+			zmiany w dolinkowanych
+			strony specjalne
+			link do tej wersji
+cytowanie tego artykułu		
+	
+
+
+
+
+
+
+	drukuj lub eksportuj
+	
+		utwórz książkępobierz jako pdfwersja do druku	
+
+
+
+
+
+
+	w innych językach
+	
+		
+			afrikaans
+			العربية
+			aragonés
+			arpetan
+			asturianu
+			azərbaycanca
+			বাংলা
+			bânlâmgú
+			basa banyumasan
+			беларуская
+			‪беларуская тарашкевіца‬
+			български
+			bosanski
+			brezhoneg
+			català
+			česky
+			cymraeg
+			dansk
+			deutsch
+			eesti
+			ελληνικά
+			english
+			español
+			esperanto
+			estremeñu
+			euskara
+			فارسی
+			français
+			frysk
+			furlan
+			gaeilge
+			gaelg
+			galego
+			한국어
+			हिन्दी
+			hornjoserbsce
+			hrvatski
+			ido
+			bahasa indonesia
+			interlingua
+			interlingue
+			ирон
+			íslenska
+			italiano
+			עברית
+			basa jawa
+			ಕನ್ನಡ
+			ქართული
+			қазақша
+			kurdî
+			ladino
+			latina
+			latviešu
+			lëtzebuergesch
+			lietuvių
+			ligure
+			lojban
+			magyar
+			македонски
+			മലയാളം
+			مصرى
+			bahasa melayu
+			မြန်မာဘာသာ
+			nederlands
+			日本語
+			norfuk  pitkern
+			‪norsk bokmål‬
+			‪norsk nynorsk‬
+			nouormand
+			novial
+			occitan
+			plattdüütsch
+			português
+			română
+			runa simi
+			русский
+			scots
+			shqip
+			sicilianu
+			සිංහල
+			simple english
+			slovenčina
+			slovenščina
+			српски  srpski
+			srpskohrvatski  српскохрватски
+			suomi
+			svenska
+			tagalog
+			தமிழ்
+			татарчаtatarça
+			tetun
+			ไทย
+			тоҷикӣ
+			türkçe
+			українська
+			اردو
+			tiếng việt
+			volapük
+			winaray
+			ייִדיש
+			粵語
+			中文
+		
+	
+
+
+
+			
+		
+		
+		
+							
+											 tę stronę ostatnio zmodyfikowano 1614 23 mar 2012
+											tekst udostępniany na licencji creative commons uznanie autorstwa na tych samych warunkach z możliwością obowiązywania dodatkowych ograniczeń
+zobacz szczegółowe informacje o warunkach korzystania
+									
+							
+											zasady zachowania poufności
+											o wikipedii
+											korzystasz z wikipedii tylko na własną odpowiedzialność
+											wersja na komórkę
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+		
+ifwindowmw
+mwloaderloadmediawikiusermediawikipagereadymediawikilegacymwsuggestextgadgetmapsextgadgetenhancedsearchextgadgetheadingiconsextgadgetreftoolbarextgadgeteditbuttonsextgadgeteditsummariesextgadgetmysandboxextgadgeteditfirstsectionextgadgeteditsummarywarningextgadgetwikibugsextgadgetnuxtbkeysextgadgetenhanceduploadextgadgetfeaturedarticleslinksextgadgetmodifysectionstyleextgadgetsmallbibliographyextgadgetgeonoticeextvectorcollapsiblenavextvectorcollapsibletabsextvectoreditwarningextvectorsimplesearchextflaggedrevsadvanced null true
+
+
+
+
+	
+

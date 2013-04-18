@@ -1,0 +1,37 @@
+﻿Build started 2012-05-30 13:13:31.
+     1>Project "C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\DiagSquares\DiagSquares.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\DiagSquares.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt CCompressedTile.cpp DS.cpp DSGraph.cpp
+         CCompressedTile.cpp
+         DS.cpp
+         DSGraph.cpp
+     1>DSGraph.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>DSGraph.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>DSGraph.cpp(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>DSGraph.cpp(197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>DSGraph.cpp(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\x64\Release\DiagSquares.exe" /INCREMENTAL:NO /NOLOGO zlibstat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\DiagSquares.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\x64\Release\DiagSquares.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\x64\Release\DiagSquares.lib" /MACHINE:X64 x64\Release\CCompressedTile.obj
+         x64\Release\CUncompressedTile.obj
+         x64\Release\DS.obj
+         x64\Release\DSGraph.obj
+         Generating code
+         Finished generating code
+         DiagSquares.vcxproj -> C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\x64\Release\DiagSquares.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\x64\Release\DiagSquares.exe;#1" /manifest x64\Release\DiagSquares.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\DiagSquares.unsuccessfulbuild".
+         Touching "x64\Release\DiagSquares.lastbuildstate".
+     1>Done Building Project "C:\Users\Filip\Documents\Visual Studio 2010\Projects\DiagSquares\DiagSquares\DiagSquares.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.97

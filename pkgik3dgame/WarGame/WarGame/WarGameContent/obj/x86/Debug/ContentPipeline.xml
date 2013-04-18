@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\castle.FBX</Source>
+      <Name>Models\castle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>BoundingBoxProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\castle.xnb</Output>
+      <Time>2012-05-08T15:25:58.7725609+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\castle_0.xml</Key>
+        <Value>2012-05-08T15:27:03.289165+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.fbx</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>BoundingBoxProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\spaceship.xnb</Output>
+      <Time>2012-05-08T15:25:58.7995624+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\spaceship_0.xml</Key>
+        <Value>2012-05-08T15:27:04.5012321+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\StarCruiser.fbx</Source>
+      <Name>Models\StarCruiser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>BoundingBoxProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\StarCruiser.xnb</Output>
+      <Time>2012-05-08T15:25:58.7415591+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\StarCruiser_0.xml</Key>
+        <Value>2012-05-08T15:27:05.1882714+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\cube.x</Source>
+      <Name>Models\cube</Name>
+      <Importer>XImporter</Importer>
+      <Processor>BoundingBoxProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\cube.xnb</Output>
+      <Time>2012-05-08T15:25:58.7275583+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\cube_0.xml</Key>
+        <Value>2012-05-08T15:27:05.4622871+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\skybox\skybox.x</Source>
+      <Name>Models\skybox\skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>BoundingBoxProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\skybox.xnb</Output>
+      <Time>2012-05-08T15:25:57.4024842+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\skybox\skybox_0.xml</Key>
+        <Value>2012-05-08T15:27:05.5182903+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\top_0.xnb</Request>
+      <Request>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\right_0.xnb</Request>
+      <Request>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\left_0.xnb</Request>
+      <Request>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\front_0.xnb</Request>
+      <Request>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\back_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\alienBase.x</Source>
+      <Name>Models\alienBase</Name>
+      <Importer>XImporter</Importer>
+      <Processor>BoundingBoxProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\alienBase.xnb</Output>
+      <Time>2012-05-08T15:25:58.7495596+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\alienBase_0.xml</Key>
+        <Value>2012-05-08T15:27:07.5784026+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\moon.jpg</Source>
+      <Name>Textures\moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Textures\moon.xnb</Output>
+      <Time>2012-05-08T15:26:00.1726231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FullMoon.jpg</Source>
+      <Name>Textures\FullMoon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Textures\FullMoon.xnb</Output>
+      <Time>2012-05-08T15:26:00.1826231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\WarGameMenuFont.spritefont</Source>
+      <Name>Fonts\WarGameMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Fonts\WarGameMenuFont.xnb</Output>
+      <Time>2012-05-08T15:26:00.2326232+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\shoot.wav</Source>
+      <Name>Sounds\shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Sounds\shoot.xnb</Output>
+      <Time>2012-05-08T15:26:00.9762243+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\starwars.wav</Source>
+      <Name>Sounds\starwars</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Sounds\starwars.xnb</Output>
+      <Time>2012-05-08T15:26:00.9662242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\click.wav</Source>
+      <Name>Sounds\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Sounds\click.xnb</Output>
+      <Time>2012-05-08T15:26:00.9462242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pop.wav</Source>
+      <Name>Sounds\pop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Sounds\pop.xnb</Output>
+      <Time>2012-05-08T15:26:00.9862243+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\boooiiinnng.wav</Source>
+      <Name>Sounds\boooiiinnng</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Sounds\boooiiinnng.xnb</Output>
+      <Time>2012-05-08T15:26:00.9662242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\PostProcessing.fx</Source>
+      <Name>Shaders\PostProcessing</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Shaders\PostProcessing.xnb</Output>
+      <Time>2012-05-08T15:26:00.2126232+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\castle.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\castle_0.xml</Output>
+      <Time>2012-05-08T15:25:58.7725609+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\spaceship_0.xml</Output>
+      <Time>2012-05-08T15:25:58.7995624+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\StarCruiser.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\StarCruiser_0.xml</Output>
+      <Time>2012-05-08T15:25:58.7415591+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cube.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\cube_0.xml</Output>
+      <Time>2012-05-08T15:25:58.7275583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox\skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\skybox\skybox_0.xml</Output>
+      <Time>2012-05-08T15:25:57.4024842+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox\top.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\top_0.xnb</Output>
+      <Time>2012-05-08T15:25:57.3974839+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox\right.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\right_0.xnb</Output>
+      <Time>2012-05-08T15:25:57.3864833+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox\left.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\left_0.xnb</Output>
+      <Time>2012-05-08T15:25:57.452487+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox\front.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\front_0.xnb</Output>
+      <Time>2012-05-08T15:25:57.4144849+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox\back.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\Models\skybox\back_0.xnb</Output>
+      <Time>2012-05-08T15:25:57.3914836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\alienBase.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\alienBase_0.xml</Output>
+      <Time>2012-05-08T15:25:58.7495596+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGame\WarGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Filip\Documents\Visual Studio 2010\Projects\pkgik3dgame\WarGame\WarGameContentPipeline\bin\x86\Debug\WarGameContentPipeline.dll</Key>
+        <Value>2012-05-08T15:26:57.9873083+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-08T10:51:36.9309286+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

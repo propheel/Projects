@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ErdosConverter", "ErdosConverter\ErdosConverter.vcxproj", "{93E660A1-1475-48F0-AE87-96275A0A3901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E660A1-1475-48F0-AE87-96275A0A3901}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93E660A1-1475-48F0-AE87-96275A0A3901}.Debug|Win32.Build.0 = Debug|Win32
+		{93E660A1-1475-48F0-AE87-96275A0A3901}.Release|Win32.ActiveCfg = Release|Win32
+		{93E660A1-1475-48F0-AE87-96275A0A3901}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

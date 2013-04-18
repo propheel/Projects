@@ -1,0 +1,519 @@
+
+
+
+donald knuth  wikipedia wolna encyklopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alangaralangckbalangfaalangkkarabalangmznalangpsalangurtextdecorationnoneanewquickbar anewcolorba0000
+
+ cache key plwikiresourceloaderfilterminifycss7c88e2bcd56513749bec09a7e29cb3ffa 
+
+
+ifwindowmw
+mwconfigsetwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumber0wgpagenamedonaldknuthwgtitledonald knuthwgcurrevisionid30073939wgarticleid10059wgisarticletruewgactionviewwgusernamenullwgusergroupswgcategoriesamerykańscy informatycyamerykańscy matematycylaureaci nagrody turingatexurodzeni w 1938wgbreakframesfalsewgpagecontentlanguageplwgseparatortransformtable	 	wgdigittransformtablewgrestrictioneditwgrestrictionmovewgsearchnamespaces0wgvectorenabledmodulescollapsiblenavtruecollapsibletabstrueeditwarningtrueexpandablesearchfalsefootercleanupfalsesectioneditlinksfalsesimplesearchtrueexperimentstruewgwikieditorenabledmodulestoolbartruedialogstruehidesigtruetemplateeditorfalsetemplatesfalsepreviewfalsepreviewdialogfalsepublishfalsetocfalsewgflaggedrevsparamstagsaccuracylevels1quality2pristine4wgstablerevisionid29961443wgcategorytreepagecategoryoptionsmode0hideprefix20showcounttruenamespacesfalsegeocitycountrywgnoticeprojectwikipedia
+ifwindowmw
+mwloaderimplementuseroptionsfunction$mwuseroptionssetccmeonemails0cols80datedefaultdiffonly0disablemail0disablesuggest0editfontdefaulteditondblclick0editsection1editsectiononrightclick0enotifminoredits0enotifrevealaddr0enotifusertalkpages1enotifwatchlistpages0extendwatchlist0externaldiff0externaleditor0fancysig0forceeditsummary0genderunknownhideminor0hidepatrolled0highlightbroken1imagesize2justify0math0minordefault0newpageshidepatrolled0nocache0noconvertlink0norollbackdiff0numberheadings0previewonfirst0previewontop1quickbar5rcdays7rclimit50rememberpassword0rows25searchlimit20showhiddencatsfalseshowjumplinks1shownumberswatching1showtoc1showtoolbar1skinvectorstubthreshold0thumbsize4underline2uselivepreview0usenewrc0watchcreations1watchdefault0
+watchdeletion0watchlistdays3watchlisthideanons0watchlisthidebots0watchlisthideliu0watchlisthideminor0watchlisthideown0watchlisthidepatrolled0watchmoves0wllimit250flaggedrevssimpleui1flaggedrevsstable0flaggedrevseditdiffstrueflaggedrevsviewdiffsfalsevectorsimplesearch1useeditwarning1vectorcollapsiblenav1usebetatoolbar1usebetatoolbarcgd1variantpllanguageplsearchns0truesearchns1falsesearchns2falsesearchns3falsesearchns4falsesearchns5falsesearchns6falsesearchns7falsesearchns8falsesearchns9falsesearchns10falsesearchns11falsesearchns12falsesearchns13falsesearchns14falsesearchns15falsesearchns100falsesearchns101falsesearchns102falsesearchns103falsegadgetmaps1gadgetenhancedsearch1gadgetheadingicons1gadgetreftoolbar1gadgeteditbuttons1gadgeteditsummaries1gadgetmysandbox1
+gadgeteditfirstsection1gadgeteditsummarywarning1gadgetwikibugs1gadgetnuxtbkeys1gadgetenhancedupload1gadgetfeaturedarticleslinks1gadgetmodifysectionstyle1gadgetsmallbibliography1gadgetgeonotice1mwloaderimplementusertokensfunction$mwusertokenssetedittoken+watchtokenfalse
+
+ cache key plwikiresourceloaderfilterminifyjs7721b0d250c831d70001d1d3c0349ca57 
+
+ifwindowmw
+mwloaderloadmediawikipagestartupmediawikilegacywikibitsmediawikilegacyajax
+
+bodybehaviorurlwskins119vectorcsshoverminhtc
+
+		
+		
+		
+		
+			
+			
+						
+			
+			
+						
+			
+				donald knuth
+			
+			
+			
+			
+								
+				z wikipedii wolnej encyklopedii
+				
+								
+				
+to jest najnowsza wersja przejrzana która została oznaczona 22 lut 2012
+od tego czasu wykonano 1 zmianę która oczekuje na przejrzenie
+
+
+
+				
+																
+				
+					skocz do nawigacji
+					szukaj
+				
+				
+								
+				
+
+
+
+donald knuth 2005
+
+
+donald ervin knuth ur 10 stycznia 1938 r w milwaukee  amerykański matematyk informatyk emerytowany profesor na katedrze informatyki uniwersytetu stanforda
+knuth  jeden z pionierów informatyki  jest najbardziej znany z wielotomowego dzieła sztuka programowania the art of computer programming uznawanego za najbardziej dogłębne chociaż na razie niedokończone opracowanie na temat analizy algorytmów jest też autorem systemu składu drukarskiego teχ i języka opisu fontów metafont oraz twórcą i propagatorem techniki literate programming
+
+
+
+
+spis treści
+
+
+1 młodość i edukacja
+2 działalność naukowa
+3 prywatnie
+4 wywiady i artykuły
+5 linki zewnętrzne
+
+
+
+
+edytuj młodość i edukacja
+urodził się w milwaukee wisconsin w usa był synem nauczyciela ervina henryego knutha i louise marie bohning knuth uczęszczał do milwaukee lutheran high school gdzie zafascynowała go budowa zdań i wyrazów jednak jego prawdziwą pasją była muzyka grał na organach kościelnych saksofonie i tubie w 1956 skończył naukę w wisconsin uzyskując najwyższą średnią w historii szkoły knuth początkowo wiązał swoją przyszłość z muzyką jednak ostatecznie zdecydował się studiować fizykę na case institute of technology w cleveland znanym teraz jako case western reserve university w stanie ohio na studiach pierwszy raz poważnie zetknął się z matematyką która wyparła jego początkowe zainteresowanie fizyką upewniły go w tym sukcesy w tej dziedzinie na case wtedy też pierwszy raz miał kontakt z komputerem był to ibm 650 w 1960 uzyskał tytuł bakałarza bachelor of science i za zdolności w pisaniu programów komputerowych wydział nagrodził go tytułem magistra masters degree od 1960 do 1963 roku studiował na california institute of technology zdobywając w wieku 25 lat tytuł doktora matematyki za pracę finite semifields and projective planes
+edytuj działalność naukowa
+w czasie studiów na caltech napisał pracę an imaginary number system w której wprowadził system liczbowy o podstawie z liczby zespolonej 2i po otrzymaniu tytułu doktora 1963 na uniwersytecie caltech pracował tam najpierw jako adiunkt assistant professor a w 1966 jako docent associate professor w latach 60 pracował min dla burroughs corporation jako konsultant i jako redaktor działu języki programowania organizacji acm w 1968 został profesorem na uniwersytecie stanforda wykładał informatykę inżynierię elektryczną matematykę na takich uczelniach jak universytet stanforda universytet w oslo universytet oksfordzki od 1976 do 1986 pracował nad systemem mającym ułatwić pracę nad dokumentami naukowymi  tex i metafont uniwersytet stanforda przyznał mu w 1990 wyjątkowy tytuł profesora sztuki programowania komputerów a w 1993 gdy już przeszedł na emeryturę tytuł emerytowanego profesora sztuki programowania komputerów od 1993 ograniczył swoją działalność na stanford university do kilku nieformalnych wykładów na rok zwanych computer musings
+w 1962 wydawnictwo addisonwesley zwróciło się do niego z propozycją napisania książki o kompilatorach a w 4 lata później zgromadziwszy około 3000 odręcznie zapisanych stron postanowił napisać siedmiotomowe dzieło traktujące o analizie algorytmów pierwszy tom sztuki programowania wydano w 1968 kolejne w latach 1969 1973 z części iv knuth opublikował na razie fragmenty części v vi i vii jeszcze nie napisał
+knuth znacząco rozwinął algorytmikę opracował teoretycznie wiele zagadnień z zakresu matematyki i informatyki min algorytm znajdujący podciągi w ciągach znaków algorytm knuthamorrisapratta algorytm knuthabendixa jest autorem lub współautorem około 420 publikacji i artykułów 32 książek wydanych w wielu językach posiada 5 patentów otrzymał wiele doktoratów honoris causa spośród licznych medali i odznaczeń ważniejsze są nagroda grace murray hopper 1971 nagroda turinga 1974 narodowy medal nauki 1979 medal johna von neumanna 1995 nagroda harveya 1995 nagroda kyoto 1996
+edytuj prywatnie
+knuth ożenił się w 1961 z nancy jill carter mają dwójkę dzieci  johna martina i jennifer sierrę gra na organach które sam zaprojektował jest członkiem amerykańskiej gildii organistów american guild of organists
+znany jest ze swojego poczucia humoru
+
+począwszy od wersji 3 programu tex kolejne wersje są coraz lepszym przybliżeniem liczby π  31 314 itd najnowsza  3141592
+kolejne wersje języka metafont analogicznie do tex są przybliżeniem liczby e obecna wersja to 271828
+
+
+
+
+
+czek na 1000000002 centów
+
+
+
+za znalezienie błędu w swojej książce płaci $256 czyli 100 centów odczytane w systemie szesnastkowym dla książki 316 bible texts illuminated jest to wyjątkowo $316
+jego pierwszy artykuł the potrzebie system of weights and measures napisany w 1957 roku dla gazetki szkolnej definiował nowe jednostki wprowadzając humorystyczne oznaczenia miar i wag
+
+od 1 stycznia 1990 nie używa poczty elektronicznej tłumacząc że 15 lat używania emaila wystarcza na jedno życie knuth ogłosił że jego ostatnią wolą będzie aby po jego śmierci zakończyć pracę nad programem tex i metafont oznaczyć wersje programów odpowiednio π i e a wszystkie pozostałe w nich błędy nazwać właściwościami programów
+w 2001 jego imieniem nazwano planetoidę 21656 knuth
+edytuj wywiady i artykuły
+w języku angielskim
+
+tugboat 1990
+computer literacy 1993
+tugboat 1995
+dr dobbs journal 1996
+aw innovations 1996
+amsterdam 1996
+byte 1996
+amazon 1997
+boston acm 1999
+technology review 1999
+uk tug 1999
+saloncom 1999
+advogato 2000
+ams 2001 tylko dla zarejestrowanych użytkowników
+geek celebs 2001
+oslo 2002
+npr 2005
+informit 2008
+
+w języku niemieckim
+
+ct 2002
+nzz folio 2002
+
+w języku czeskim
+
+czech tug 1996
+
+edytuj linki zewnętrzne
+
+strona domowa donalda knutha
+obszerna biografia w języku angielskim
+nagrania wideo computer musings i inne wykłady uniwersytetu stanforda
+pierwsza publikacja knutha
+praca doktorska
+wykłady knutha w formie audio i wideo
+zdjęcia
+john j oconnor edmund f robertson donald knuth w mactutor history of mathematics archive ang
+
+
+
+
+
+
+
+
+p160160d160160e
+
+laureaci nagrody turinga
+
+
+
+
+
+
+
+
+1966160alan perlis
+1967160maurice wilkes
+1968160richard hamming
+1969160marvin minsky
+1970160james h wilkinson
+1971160john mccarthy
+1972160edsger dijkstra
+1973160charles bachman
+1974160donald knuth
+1975160allen newell herbert simon
+1976160michael o rabin dana scott
+1977160john backus
+1978160robert w floyd
+1979160kenneth e iverson
+1980160car hoare
+1981160edgar frank codd
+1982160stephen a cook
+1983160ken thompson dennis ritchie
+1984160niklaus wirth
+1985160richard karp
+1986160john hopcroft robert tarjan
+1987160john cocke
+1988160ivan sutherland
+1989160william kahan
+1990160fernando corbató
+1991160robin milner
+1992160butler lampson
+1993160juris hartmanis richard stearns
+1994160edward feigenbaum raj reddy
+1995160manuel blum
+1996160amir pnueli
+1997160douglas engelbart
+1998160james gray
+1999160fred brooks
+2000160andrew yao
+2001160olejohan dahl kristen nygaard
+2002160ron rivest adi shamir leonard adleman
+2003160alan kay
+2004160vinton gray cerf bob kahn
+2005160peter naur
+2006160frances e allen
+2007160edmund clarke allen emerson joseph sifakis
+2008160barbara liskov
+2009160charles p thacker
+2010160leslie valiant
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+								
+				
+				źródło httpplwikipediaorgwindexphptitle=donaldknuthampoldid=29961443				
+				
+												
+				kategorie amerykańscy informatycyamerykańscy matematycylaureaci nagrody turingatexurodzeni w 1938				
+												
+				
+								
+			
+			
+		
+		
+		
+		
+			
+
+
+	osobiste
+	
+		logowanie i rejestracja
+	
+
+
+
+			
+				
+
+
+	przestrzenie nazw
+	
+					artykuł
+					dyskusja
+			
+
+
+
+
+
+
+	
+		
+	warianty
+	
+		
+					
+	
+
+
+
+			
+			
+				
+
+
+	widok
+	
+					czytaj
+					oczekuje na przejrzenie
+					edytuj
+					historia i autorzy
+			
+
+
+
+
+
+
+	działania
+	
+		
+					
+	
+
+
+
+
+
+
+	szukaj
+	
+				
+																				
+		
+	
+
+
+
+			
+		
+		
+		
+			
+				
+					
+				
+				
+
+
+
+
+
+
+	nawigacja
+	
+		
+			strona główna
+			kategorie artykułów
+			najlepsze hasła
+			losuj artykuł
+		
+	
+
+
+
+
+
+
+	dla czytelników
+	
+		
+			zgłoś błąd
+			zgłoś błąd w pliku
+			częste pytania faq
+			strona kontaktowa
+			wykluczenie odpowiedzialności
+			wspomóż wikipedię
+		
+	
+
+
+
+
+
+
+	dla wikipedystów
+	
+		
+			ostatnie zmiany
+			zasady edytowania
+			pomoc
+			kawiarenka
+			ogłoszenia
+		
+	
+
+
+
+
+
+
+	narzędzia
+	
+		
+			linkujące
+			zmiany w dolinkowanych
+			strony specjalne
+			link do tej wersji
+cytowanie tego artykułu		
+	
+
+
+
+
+
+
+	drukuj lub eksportuj
+	
+		utwórz książkępobierz jako pdfwersja do druku	
+
+
+
+
+
+
+	w innych językach
+	
+		
+			العربية
+			asturianu
+			বাংলা
+			беларуская
+			български
+			bosanski
+			català
+			česky
+			dansk
+			deutsch
+			ελληνικά
+			english
+			español
+			esperanto
+			euskara
+			فارسی
+			français
+			frysk
+			gàidhlig
+			galego
+			한국어
+			հայերեն
+			bahasa indonesia
+			íslenska
+			italiano
+			עברית
+			basa jawa
+			ქართული
+			kreyòl ayisyen
+			lëtzebuergesch
+			lietuvių
+			limburgs
+			magyar
+			മലയാളം
+			मराठी
+			nederlands
+			日本語
+			‪norsk bokmål‬
+			‪norsk nynorsk‬
+			português
+			română
+			русский
+			slovenčina
+			slovenščina
+			српски  srpski
+			srpskohrvatski  српскохрватски
+			suomi
+			svenska
+			tagalog
+			தமிழ்
+			తెలుగు
+			ไทย
+			türkçe
+			українська
+			tiếng việt
+			winaray
+			yorùbá
+			中文
+		
+	
+
+
+
+			
+		
+		
+		
+							
+											tekst udostępniany na licencji creative commons uznanie autorstwa na tych samych warunkach z możliwością obowiązywania dodatkowych ograniczeń
+zobacz szczegółowe informacje o warunkach korzystania
+									
+							
+											zasady zachowania poufności
+											o wikipedii
+											korzystasz z wikipedii tylko na własną odpowiedzialność
+											wersja na komórkę
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+		
+ifwindowmw
+mwloaderloadmediawikiusermediawikipagereadymediawikilegacymwsuggestextgadgetmapsextgadgetenhancedsearchextgadgetheadingiconsextgadgetreftoolbarextgadgeteditsummariesextgadgetmysandboxextgadgeteditfirstsectionextgadgeteditsummarywarningextgadgetwikibugsextgadgetenhanceduploadextgadgetfeaturedarticleslinksextgadgetmodifysectionstyleextgadgetsmallbibliographyextgadgetgeonoticeextvectorcollapsiblenavextvectorcollapsibletabsextvectoreditwarningextvectorsimplesearchextflaggedrevsadvanced null true
+
+
+
+
+
+
+
+	
+

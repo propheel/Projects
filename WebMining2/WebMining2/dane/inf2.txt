@@ -1,0 +1,433 @@
+
+
+
+edsger dijkstra  wikipedia wolna encyklopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alangaralangckbalangfaalangkkarabalangmznalangpsalangurtextdecorationnoneanewquickbar anewcolorba0000
+
+ cache key plwikiresourceloaderfilterminifycss7c88e2bcd56513749bec09a7e29cb3ffa 
+
+
+ifwindowmw
+mwconfigsetwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumber0wgpagenameedsgerdijkstrawgtitleedsger dijkstrawgcurrevisionid29630957wgarticleid73187wgisarticletruewgactionviewwgusernamenullwgusergroupswgcategoriesinformatycyholenderscy naukowcylaureaci nagrody turingaurodzeni w 1930zmarli w 2002wgbreakframesfalsewgpagecontentlanguageplwgseparatortransformtable	 	wgdigittransformtablewgrestrictioneditwgrestrictionmovewgsearchnamespaces0wgvectorenabledmodulescollapsiblenavtruecollapsibletabstrueeditwarningtrueexpandablesearchfalsefootercleanupfalsesectioneditlinksfalsesimplesearchtrueexperimentstruewgwikieditorenabledmodulestoolbartruedialogstruehidesigtruetemplateeditorfalsetemplatesfalsepreviewfalsepreviewdialogfalsepublishfalsetocfalsewgflaggedrevsparamstagsaccuracylevels1quality2pristine4wgstablerevisionid29630957wgcategorytreepagecategoryoptionsmode0hideprefix20showcounttruenamespacesfalsegeocitycountrywgnoticeprojectwikipedia
+ifwindowmw
+mwloaderimplementuseroptionsfunction$mwuseroptionssetccmeonemails0cols80datedefaultdiffonly0disablemail0disablesuggest0editfontdefaulteditondblclick0editsection1editsectiononrightclick0enotifminoredits0enotifrevealaddr0enotifusertalkpages1enotifwatchlistpages0extendwatchlist0externaldiff0externaleditor0fancysig0forceeditsummary0genderunknownhideminor0hidepatrolled0highlightbroken1imagesize2justify0math0minordefault0newpageshidepatrolled0nocache0noconvertlink0norollbackdiff0numberheadings0previewonfirst0previewontop1quickbar5rcdays7rclimit50rememberpassword0rows25searchlimit20showhiddencatsfalseshowjumplinks1shownumberswatching1showtoc1showtoolbar1skinvectorstubthreshold0thumbsize4underline2uselivepreview0usenewrc0watchcreations1watchdefault0
+watchdeletion0watchlistdays3watchlisthideanons0watchlisthidebots0watchlisthideliu0watchlisthideminor0watchlisthideown0watchlisthidepatrolled0watchmoves0wllimit250flaggedrevssimpleui1flaggedrevsstable0flaggedrevseditdiffstrueflaggedrevsviewdiffsfalsevectorsimplesearch1useeditwarning1vectorcollapsiblenav1usebetatoolbar1usebetatoolbarcgd1variantpllanguageplsearchns0truesearchns1falsesearchns2falsesearchns3falsesearchns4falsesearchns5falsesearchns6falsesearchns7falsesearchns8falsesearchns9falsesearchns10falsesearchns11falsesearchns12falsesearchns13falsesearchns14falsesearchns15falsesearchns100falsesearchns101falsesearchns102falsesearchns103falsegadgetmaps1gadgetenhancedsearch1gadgetheadingicons1gadgetreftoolbar1gadgeteditbuttons1gadgeteditsummaries1gadgetmysandbox1
+gadgeteditfirstsection1gadgeteditsummarywarning1gadgetwikibugs1gadgetnuxtbkeys1gadgetenhancedupload1gadgetfeaturedarticleslinks1gadgetmodifysectionstyle1gadgetsmallbibliography1gadgetgeonotice1mwloaderimplementusertokensfunction$mwusertokenssetedittoken+watchtokenfalse
+
+ cache key plwikiresourceloaderfilterminifyjs7721b0d250c831d70001d1d3c0349ca57 
+
+ifwindowmw
+mwloaderloadmediawikipagestartupmediawikilegacywikibitsmediawikilegacyajax
+
+bodybehaviorurlwskins119vectorcsshoverminhtc
+
+		
+		
+		
+		
+			
+			
+						
+			
+			
+						
+			
+				edsger dijkstra
+			
+			
+			
+			
+								
+				z wikipedii wolnej encyklopedii
+				
+								
+				
+				
+																
+				
+					skocz do nawigacji
+					szukaj
+				
+				
+								
+				
+
+
+
+edsger wybe dijkstra w 2002 roku
+
+
+edsger wybe dijkstra ˈɛtˌsxər ʋibə ˈdɛɪkˌstra ur 11 maja 1930 w rotterdamie zm 6 sierpnia 2002 w neunen  holenderski naukowiec pionier informatyki
+informatyką zajmował się głównie od strony teoretycznej zajmował się różnymi jej aspektami między innymi algorytmiką językami programowania formalną specyfikacją i weryfikacją
+edytuj życiorys
+kariera naukowa edsgera dijkstry rozpoczęła się w 1948 kiedy rozpoczął studia z fizyki teoretycznej na uniwersytecie w lejdzie trzy lata później odbył kurs programowania w anglii pod przewodnictwem mauricea wilkesa który ukształtował jego późniejszą pracę naukową
+początkowo dijkstra pracował w amsterdamskim centrum matematycznym gdzie zajął się programowaniem ówczesnych maszyn z serii arra jednak w 1956 przeniósł swoje główne zainteresowania do firmy electrologica której był współtwórcą
+edsger dijkstra był zafascynowany powstającym wówczas językiem algol 60 i pracował nad jego pierwszym kompilatorem wkrótce zaczął pracować jako profesor matematyki na politechnice w eindhoven gdzie zapoznawał studentów z matematycznymi podstawami informatyki pod koniec lat 60 zaczął rozsyłać kserokopie swoich notatek na temat programowania których łącznie zdołał napisać ponad 1300 do naukowców w europie i ameryce
+wkład edsgera dijkstry w informatykę został doceniony w 1972 kiedy otrzymał nagrodę turinga za wkład w języki programowania jednak do dziś jest pamiętany przede wszystkim dzięki algorytmowi znajdowania najkrótszych ścieżek w grafie znanemu jako algorytm dijkstry oraz problemowi ucztujących filozofów nie bez echa przeszły też jego opinie na temat zastąpienia instrukcji skoku innymi strukturami programistycznymi
+przez lata 70 był współpracownikiem naukowym korporacji burroughs a w 1984 objął profesurę w amerykańskim university of texas w austin gdzie pracował aż do przejścia na emeryturę w 2000 roku
+edsger dijkstra zmarł 6 sierpnia 2002 po długiej walce z nowotworem
+edytuj linki zewnętrzne
+
+
+
+
+zobacz w wikicytatach kolekcję cytatów
+z edsgera dijkstry
+
+
+ew dijkstra archive  archiwum tekstów ew dijkstry
+
+
+
+
+
+
+
+
+p160160d160160e
+
+laureaci nagrody turinga
+
+
+
+
+
+
+
+
+1966160alan perlis
+1967160maurice wilkes
+1968160richard hamming
+1969160marvin minsky
+1970160james h wilkinson
+1971160john mccarthy
+1972160edsger dijkstra
+1973160charles bachman
+1974160donald knuth
+1975160allen newell herbert simon
+1976160michael o rabin dana scott
+1977160john backus
+1978160robert w floyd
+1979160kenneth e iverson
+1980160car hoare
+1981160edgar frank codd
+1982160stephen a cook
+1983160ken thompson dennis ritchie
+1984160niklaus wirth
+1985160richard karp
+1986160john hopcroft robert tarjan
+1987160john cocke
+1988160ivan sutherland
+1989160william kahan
+1990160fernando corbató
+1991160robin milner
+1992160butler lampson
+1993160juris hartmanis richard stearns
+1994160edward feigenbaum raj reddy
+1995160manuel blum
+1996160amir pnueli
+1997160douglas engelbart
+1998160james gray
+1999160fred brooks
+2000160andrew yao
+2001160olejohan dahl kristen nygaard
+2002160ron rivest adi shamir leonard adleman
+2003160alan kay
+2004160vinton gray cerf bob kahn
+2005160peter naur
+2006160frances e allen
+2007160edmund clarke allen emerson joseph sifakis
+2008160barbara liskov
+2009160charles p thacker
+2010160leslie valiant
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+								
+				
+				źródło httpplwikipediaorgwindexphptitle=edsgerdijkstraampoldid=29630957				
+				
+												
+				kategorie informatycyholenderscy naukowcylaureaci nagrody turingaurodzeni w 1930zmarli w 2002				
+												
+				
+								
+			
+			
+		
+		
+		
+		
+			
+
+
+	osobiste
+	
+		logowanie i rejestracja
+	
+
+
+
+			
+				
+
+
+	przestrzenie nazw
+	
+					artykuł
+					dyskusja
+			
+
+
+
+
+
+
+	
+		
+	warianty
+	
+		
+					
+	
+
+
+
+			
+			
+				
+
+
+	widok
+	
+					czytaj
+					edytuj
+					historia i autorzy
+			
+
+
+
+
+
+
+	działania
+	
+		
+					
+	
+
+
+
+
+
+
+	szukaj
+	
+				
+																				
+		
+	
+
+
+
+			
+		
+		
+		
+			
+				
+					
+				
+				
+
+
+
+
+
+
+	nawigacja
+	
+		
+			strona główna
+			kategorie artykułów
+			najlepsze hasła
+			losuj artykuł
+		
+	
+
+
+
+
+
+
+	dla czytelników
+	
+		
+			zgłoś błąd
+			zgłoś błąd w pliku
+			częste pytania faq
+			strona kontaktowa
+			wykluczenie odpowiedzialności
+			wspomóż wikipedię
+		
+	
+
+
+
+
+
+
+	dla wikipedystów
+	
+		
+			ostatnie zmiany
+			zasady edytowania
+			pomoc
+			kawiarenka
+			ogłoszenia
+		
+	
+
+
+
+
+
+
+	narzędzia
+	
+		
+			linkujące
+			zmiany w dolinkowanych
+			strony specjalne
+			link do tej wersji
+cytowanie tego artykułu		
+	
+
+
+
+
+
+
+	drukuj lub eksportuj
+	
+		utwórz książkępobierz jako pdfwersja do druku	
+
+
+
+
+
+
+	w innych językach
+	
+		
+			asturianu
+			বাংলা
+			български
+			bosanski
+			català
+			česky
+			dansk
+			deutsch
+			eesti
+			ελληνικά
+			english
+			español
+			esperanto
+			euskara
+			فارسی
+			français
+			gaeilge
+			galego
+			한국어
+			hrvatski
+			bahasa indonesia
+			italiano
+			עברית
+			latina
+			latviešu
+			lëtzebuergesch
+			magyar
+			മലയാളം
+			मराठी
+			nederlands
+			日本語
+			‪norsk bokmål‬
+			português
+			română
+			русский
+			simple english
+			slovenčina
+			српски  srpski
+			suomi
+			svenska
+			türkçe
+			українська
+			tiếng việt
+			中文
+		
+	
+
+
+
+			
+		
+		
+		
+							
+											 tę stronę ostatnio zmodyfikowano 0239 27 sty 2012
+											tekst udostępniany na licencji creative commons uznanie autorstwa na tych samych warunkach z możliwością obowiązywania dodatkowych ograniczeń
+zobacz szczegółowe informacje o warunkach korzystania
+									
+							
+											zasady zachowania poufności
+											o wikipedii
+											korzystasz z wikipedii tylko na własną odpowiedzialność
+											wersja na komórkę
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+		
+ifwindowmw
+mwloaderloadmediawikiusermediawikipagereadymediawikilegacymwsuggestextgadgetmapsextgadgetenhancedsearchextgadgetheadingiconsextgadgetreftoolbarextgadgeteditbuttonsextgadgeteditsummariesextgadgetmysandboxextgadgeteditfirstsectionextgadgeteditsummarywarningextgadgetwikibugsextgadgetenhanceduploadextgadgetfeaturedarticleslinksextgadgetmodifysectionstyleextgadgetsmallbibliographyextgadgetgeonoticeextvectorcollapsiblenavextvectorcollapsibletabsextvectoreditwarningextvectorsimplesearchextflaggedrevsadvanced null true
+
+
+
+
+
+
+	
+

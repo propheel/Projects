@@ -1,0 +1,16 @@
+\relax 
+\catcode`"\active
+\select@language{polish}
+\@writefile{toc}{\select@language{polish}}
+\@writefile{lof}{\select@language{polish}}
+\@writefile{lot}{\select@language{polish}}
+\@writefile{toc}{\contentsline {section}{\numberline {1\relax .\kern .5em }Game type}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2\relax .\kern .5em }Elevator pitch}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {3\relax .\kern .5em }Game description}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {4\relax .\kern .5em }Architecture}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1\relax .\kern .5em }Game goals}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2\relax .\kern .5em }Menu}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3\relax .\kern .5em }Main window}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4\relax .\kern .5em }GUI}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5\relax .\kern .5em }Units}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6\relax .\kern .5em }Buildings}{3}}

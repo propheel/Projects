@@ -1,0 +1,1942 @@
+
+
+
+wolfgang amadeusz mozart  wikipedia wolna encyklopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alangaralangckbalangfaalangkkarabalangmznalangpsalangurtextdecorationnoneanewquickbar anewcolorba0000
+
+ cache key plwikiresourceloaderfilterminifycss7c88e2bcd56513749bec09a7e29cb3ffa 
+
+
+ifwindowmw
+mwconfigsetwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumber0wgpagenamewolfgangamadeuszmozartwgtitlewolfgang amadeusz mozartwgcurrevisionid30435458wgarticleid6981wgisarticletruewgactionviewwgusernamenullwgusergroupswgcategorieswolfgang amadeusz mozartaustriaccy kompozytorzykompozytorzy klasycyzmuniemieccy kompozytorzy operowiaustriaccy kompozytorzy operowiaustriaccy wolnomularzeurodzeni w 1756zmarli w 1791ludzie związani z wiedniemludzie związani z salzburgiemwgbreakframesfalsewgpagecontentlanguageplwgseparatortransformtable	 	wgdigittransformtablewgrelevantpagenamewolfgangamadeuszmozartwgrestrictioneditwgrestrictionmovewgsearchnamespaces0wgvectorenabledmodulescollapsiblenavtruecollapsibletabstrueeditwarningtrueexpandablesearchfalsefootercleanupfalsesectioneditlinksfalsesimplesearchtrueexperimentstruewgwikieditorenabledmodulestoolbartruedialogstruehidesigtruetemplateeditorfalsetemplatesfalsepreviewfalsepreviewdialogfalsepublishfalsetocfalsewgflaggedrevsparamstagsaccuracylevels1quality2pristine4wgstablerevisionid30435458wgcategorytreepagecategoryoptionsmode0hideprefix20showcounttruenamespacesfalsegeocitycountrywgnoticeprojectwikipedia
+ifwindowmw
+mwloaderimplementuseroptionsfunction$mwuseroptionssetccmeonemails0cols80datedefaultdiffonly0disablemail0disablesuggest0editfontdefaulteditondblclick0editsection1editsectiononrightclick0enotifminoredits0enotifrevealaddr0enotifusertalkpages1enotifwatchlistpages0extendwatchlist0externaldiff0externaleditor0fancysig0forceeditsummary0genderunknownhideminor0hidepatrolled0highlightbroken1imagesize2justify0math0minordefault0newpageshidepatrolled0nocache0noconvertlink0norollbackdiff0numberheadings0previewonfirst0previewontop1quickbar5rcdays7rclimit50rememberpassword0rows25searchlimit20showhiddencatsfalseshowjumplinks1shownumberswatching1showtoc1showtoolbar1skinvectorstubthreshold0thumbsize4underline2uselivepreview0usenewrc0watchcreations1watchdefault0
+watchdeletion0watchlistdays3watchlisthideanons0watchlisthidebots0watchlisthideliu0watchlisthideminor0watchlisthideown0watchlisthidepatrolled0watchmoves0wllimit250flaggedrevssimpleui1flaggedrevsstable0flaggedrevseditdiffstrueflaggedrevsviewdiffsfalsevectorsimplesearch1useeditwarning1vectorcollapsiblenav1usebetatoolbar1usebetatoolbarcgd1variantpllanguageplsearchns0truesearchns1falsesearchns2falsesearchns3falsesearchns4falsesearchns5falsesearchns6falsesearchns7falsesearchns8falsesearchns9falsesearchns10falsesearchns11falsesearchns12falsesearchns13falsesearchns14falsesearchns15falsesearchns100falsesearchns101falsesearchns102falsesearchns103falsegadgetmaps1gadgetenhancedsearch1gadgetheadingicons1gadgetreftoolbar1gadgeteditbuttons1gadgeteditsummaries1gadgetmysandbox1
+gadgeteditfirstsection1gadgeteditsummarywarning1gadgetwikibugs1gadgetnuxtbkeys1gadgetenhancedupload1gadgetfeaturedarticleslinks1gadgetmodifysectionstyle1gadgetsmallbibliography1gadgetgeonotice1mwloaderimplementusertokensfunction$mwusertokenssetedittoken+watchtokenfalse
+
+ cache key plwikiresourceloaderfilterminifyjs7721b0d250c831d70001d1d3c0349ca57 
+
+ifwindowmw
+mwloaderloadmediawikipagestartupmediawikilegacywikibitsmediawikilegacyajax
+
+
+wgoggplayermsg = oggplayodtwórzoggpausepauzaoggstopstopoggnoplayerw twoim systemie brak obsługiwanego programu odtwarzacza x3ca href=httpwwwmediawikiorgwikiextensionogghandlerclientdownloadplx3epobierz i zainstaluj odtwarzaczx3cax3eoggplayervideoelementobsługa bezpośrednio przez przeglądarkęoggplayeroggpluginwtyczka do przeglądarkioggplayercortadocortado javaoggplayervlcmozillavlcoggplayervlcactivexvlc activexoggplayerquicktimemozillaquicktimeoggplayerquicktimeactivexquicktime activexoggplayertotemtotemoggplayerkaffeinekaffeineoggplayerkmplayerkmplayeroggplayermplayerpluginmplayerpluginoggplayerthumbnailtylko nieruchomy obrazoggplayerselectedwybranyogguseplayerużyj odtwarzaczaoggmorewięcejoggdownloadpobierz plikoggdesclinkwłaściwości plikuoggdismisszamknijoggplayersoundthumbbez odtwarzaczaoggnoxiphqtbrak komponentu xiphqt dla programu quicktime quicktime nie może odtwarzać plików ogg bez tego komponentu x3ca href=httpwwwmediawikiorgwikiextensionogghandlerclientdownloadplx3epobierz xiphqtx3cax3e lub użyj innego odtwarzacza
+wgoggplayercortadourl = uploadwikimediaorgjarscortadojar
+wgoggplayerextpathurl = bitswikimediaorgwextensions119ogghandler
+
+oggplayeroptions 
+	border solid 1px ccc
+	padding 2pt
+	textalign left
+	fontsize 10pt
+
+
+center oggplayeroptions ul 
+	margin 03em 0px 0px 15em
+
+bodybehaviorurlwskins119vectorcsshoverminhtc
+
+		
+		
+		
+		
+			
+			
+						
+			
+			
+						
+			
+				wolfgang amadeusz mozart
+			
+			
+			
+			
+								
+				z wikipedii wolnej encyklopedii
+				
+								
+				
+				
+																
+				
+					skocz do nawigacji
+					szukaj
+				
+				
+								
+				
+
+wolfgang amadeusz mozart
+
+
+
+
+
+imię i160nazwisko
+joannes chrysostomus wolfgangus theophilus mozart
+
+
+data i miejsce urodzenia
+27 stycznia 1756
+salzburg
+
+
+pochodzenie
+austria
+
+
+data i miejsce śmierci
+5 grudnia 1791
+wiedeń
+
+
+gatunek
+muzyka klasyczna
+
+
+zawód
+kompozytor
+
+
+ galeria zdjęć w wikimedia commons
+
+
+
+
+
+
+austriacki bank centralny uczcił kompozytora wydając banknot o nominale 5000 szylingów austriackich
+
+
+wolfgang amadeusz mozart ur 27 stycznia 1756 w salzburgu zm 5 grudnia 1791 w wiedniu  austriacki kompozytor i wirtuoz gry na instrumentach klawiszowych razem z haydnem i beethovenem zaliczany przez muzykologów do klasyków wiedeńskich
+
+
+
+
+spis treści
+
+
+1 życie
+
+11 dzieciństwo
+12 imiona mozarta
+13 podróże
+14 kres życia
+15 dzieci mozarta
+
+
+2 twórczość
+
+21 opery
+22 utwory religijne
+
+
+3 muzyka instrumentalna
+
+31 symfonie
+32 koncerty solowe
+
+321 koncerty fortepianowe
+322 koncerty na różne instrumenty
+
+
+33 serenady divertimenta itp
+34 muzyka kameralna
+35 solowa muzyka fortepianowa
+
+
+4 katalog köchla
+5 recepcja
+
+51 mozart jako postać literacka
+52 współczesne ślady mozarta w salzburgu
+53 muzyka mozarta w polsce
+
+
+6 zobacz też
+7 bibliografia
+8 posłuchaj
+9 przypisy
+10 linki zewnętrzne
+
+101 partytury
+
+
+
+
+
+
+edytuj życie
+edytuj dzieciństwo
+urodzony w salzburgu ówczesnej stolicy małego niezależnego arcybiskupstwa w ramach świętego cesarstwa rzymskiego narodu niemieckiego jako siódme dziecko leopolda mozarta oraz anny marii z domu pertl miał starszą o pięć lat siostrę marię annę nazywaną nannerl która także przejawiała uzdolnienia muzyczne razem z nią kiedy miała 11 lat mały wolfgang grywał duety klawesynowe na zasłoniętej materiałem klawiaturze ojciec  leopold mozart  woził ich po całej europie przez co wolfgang zaczął chorować w roku 1761 skomponował swój pierwszy utwór  menuet i trio kv 1
+pozostała piątka rodzeństwa zmarła w wieku niemowlęcym w wieku trzech lat wolfgang słysząc grę siostry na klawesynie zabawiał się wyszukiwaniem tercji na tym instrumencie jak wspomina później jego siostra od piątego roku życia uczył się gry na klawesynie pod kierunkiem swojego ojca
+edytuj imiona mozarta
+na chrzcie nadano mu imiona joannes chrysostomus wolfgangus theophilus pierwsze na cześć świętego katolickiego patrona dnia urodzenia jana chryzostoma wolfgang na pamiątkę dziadka ze strony matki a teofil na pamiątkę ojca chrzestnego przez większość życia kompozytor posługiwał się jednak imionami wolfgang amadé amadé to francuska wersja greckiego imienia teofil przyjaciel boga lub umiłowany przez boga wcześniej używał także wersji włoskiej amadeo we wczesnych dokumentach występowała również forma wolfgang gottlieb gottlieb to niemieckie tłumaczenie dla teofil natomiast nigdy nie używał najpowszechniejszej dzisiaj wersji łacińskiej amadeus w dzieciństwie rodzice używali również zdrobnień wolferl wolfgangerl i we wczesnych czasach wolfi o czym wiadomo z listów ojca i innych źródeł
+edytuj podróże
+w styczniu 1762 leopold mozart i jego dzieci udali się w pierwszą podróż artystyczną  do monachium na pierwsze rodzinne tournée szczegóły tego 3tygodniowego pobytu nie są znane następna podróż całej rodziny rozpoczęta we wrześniu tego samego roku wiodła przez pasawę i linz do wiednia w habsburskiej stolicy wolfgang i nannerl zaprezentowali się jako klawesyniści zarówno na dworze cesarskim jak i w pałacach arystokracji w drodze powrotnej rodzina zatrzymała się na dwa tygodnie w bratysławie i na początku stycznia 1763 powróciła do salzburga
+w czerwcu 1763 zachęcony sukcesem podróży do wiednia leopold mozart z żoną i obojgiem dziećmi wyruszył na znacznie dłuższe tournée początkowo planowano podróż do wielu miast niemieckich i do paryża ewentualne dalsze cele miały zależeć od sukcesu  zwłaszcza materialnego  dotychczasowych koncertów wolfgang i nannerl koncertowali zatem w monachium augsburgu schwetzingen moguncji frankfurcie n menem gdzie na koncert mozarta przyszedł młody goethe koblencji i prawdopodobnie akwizgranie
+w październiku 1763 roku rodzina mozartów przybyła do brukseli
+w roku 1764 wolfgang zagrał w wersalu dla ludwika xv i w pałacu buckingham dla jerzego iii
+w 1769 roku mozart został koncertmistrzem kapeli arcybiskupiej
+w latach 17691773 trzykrotnie odwiedził włochy grudzień 1769  marzec 1771 sierpień  grudzień 1771 i październik 1772  marzec 1773 w czasie pierwszego pobytu poznał w bolonii gb martiniego i został przyjęty na członka sławnej accademia filarmonica w czasie tej podróży po wysłuchaniu w kaplicy sykstyńskiej miserere gregorio allegriego zapisał ten utwór z pamięci miserere można było wykonywać tylko w kaplicy papież podziwiał geniusz młodego twórcy i nadał mu tytuł kawalera orderu złotej ostrogi ze znanych kompozytorów takie odznaczenie otrzymał wcześniej gluck
+
+
+160osobny artykuł podróże mozarta do włoch
+
+
+w 1773 roku mozart udał się z ojcem do wiednia prawdopodobnie w poszukiwaniu posady na dworze wiedeńskim spędził tam cztery miesiące ale posady nie uzyskał niemniej pobyt w wiedniu był ważny dla rozwoju jego twórczości zaznajomił się wtedy min z nowymi kwartetami haydna następną podróż trzymiesięczną odbył na przełomie lat 1774  1775 do monachium gdzie skończył komponować operę komiczną rzekoma ogrodniczka i dyrygował jej prapremierą
+
+
+
+
+portret konstancji weber 1782 malował joseph lange
+
+
+w 1777 roku mozart w monachium poznał szesnastoletnią sopranistkę alojzę weber w której się zakochał chciał z nią wyruszyć w podróż jednak te plany pokrzyżował jego ojciec
+we wrześniu 1777 mozart rozpoczął kolejną podróż po europie ponieważ ojciec leopold mozart nie otrzymał od arcybiskupa dłuższego urlopu wolfgang wyruszył w towarzystwie matki pierwszymi celami podróży były monachium i mannheim
+po dłuższym pobycie w mannheimie oboje pojechali dalej do paryża gdzie mozart spędził pół roku w 1778 w czerwcu 1778 jego matka zachorowała i zmarła 3 lipca 1778 pobyt w paryżu nie był zbyt udany chociaż wykonanie jego symfonii paryskiej kv 297 było sukcesem mozart nie zdobył uznania paryskich melomanów ani żadnej posady we francji
+usilnie nakłaniany przez ojca do powrotu do salzburga wyruszył w drogę zatrzymując się znowu w mannheim i monachium w drodze powrotnej do salzburga mozartowi udało się znów spotkać w monachium ze swoją pierwszą miłością alojzą weber która dała mu jednak wtedy do zrozumienia że nie odwzajemnia już jego uczuć załamany z powodu podwójnej straty jaką była strata matki i alojzy w styczniu 1779 mozart wrócił do salzburga gdzie znalazł pracę u ówczesnego księcia arcybiskupa  hrabiego hieronymusa von colloredo
+lata 1779 i 1780 mozart spędził w salzburgu wtedy też otrzymał zamówienie na napisanie wielkiej opery na rozpoczęcie sezonu operowego w monachium w grudniu 1780 operą tą był idomeneo król krety w listopadzie 1780 mozart udał się do monachium aby dokończyć pracę nad dziełem nadzorować próby i dyrygować prapremierą oraz paroma następnymi przedstawieniami prapremiera idomeneo została wprawdzie przesunięta z powodu żałoby po śmierci marii teresy 29 listopada 1780 ale w końcu odbyła się 29 stycznia 1781 na premierę przyjechał do monachium ojciec mozarta a także jego siostra korzystając z wyjazdu chlebodawcy arcybiskupa hieronymusa von colloredo do wiednia mozart samowolnie przedłużył pobyt w monachium
+doprowadziło to do nieporozumienia z pracodawcą które zakończyło się wyjazdem mozarta do wiednia gdzie wynajął pokój u rodziny weberów alojza była już co prawda wtedy mężatką lecz wolfgangowi bardzo spodobała się jej siostra konstancja
+4 sierpnia w 1782 r wolfgang ożenił się z konstancją weber 17621842 która także była śpiewaczką w trakcie ich trwającego dziewięć lat małżeństwa konstancja powiła szóstkę dzieci z której przeżyła tylko dwójka jednocześnie rozpoczął pracę nad operą uprowadzenie z seraju
+26 października 1782 odbyło się prawykonanie mszy cdur kv 427
+edytuj kres życia
+mozart spędził ostatnie lata swojego życia w wiedniu gdzie do dzisiaj można zwiedzać jeden z jego apartamentów przy domgasse 5 położony w pobliżu katedry św szczepana w domu tym mozart skomponował w 1786 wesele figara
+jeszcze w październiku 1791 nikt by nie przypuszczał że za 2 miesiące mozart już nie będzie żył przez wiele lat nie wiedziano co było przyczyną śmierci kompozytora tradycja romantyczna zaś stworzyła wokół tego faktu wiele fantastycznych legend po długotrwałej analizie medycznej antona neumayra ustalono jednak dość szczegółowy przebieg choroby mozarta w którego opisie znajdują się takie objawy jak wysoka gorączka obfite wydzielanie potu i wysypka stan zapalny i obrzmienie w obrębie kończyn unieruchomienie ciała z powodu silnego bólu diagnoza mówi o ostrej gorączce reumatycznej z obrazem klinicznym nawrotu reumatoidalnego zapalenia stawów i jednoczesnym wystąpieniem reumatyzmu mózgowego połączonego z bardzo wysoką temperaturą i paraliżem najważniejszych ośrodków mózgu za bezpośrednią przyczynę śmierci uznaje się upust krwi dokonany przez medyka na dwie godziny przed śmiercią mozarta zespół chorobowy wywołany był przez paciorkowce
+śmierć przerwała pracę mozarta nad mszą żałobną requiem na prośbę żony mozarta dzieło to dokończyli jego znajomi kompozytorzy joseph eybler i franz xaver süssmayr w rękopisie mozarta ostatnie nuty postawione jego ręką przypadają na 8 takt partii wokalnych lacrimosa
+długo wierzono że mozart zmarł w nędzy i zapomnieniu pochowany w grobie dla ubogich w rzeczywistości choć jego twórczość nie była już tak modna w wiedniu w dalszym ciągu otrzymywał jednak znaczące przychody z różnych stron europy szczególnie z czech a konkretnie z pragi został pochowany w grobie 3 klasy tak jak większość mieszkańców wiednia pochówek tego typu warunkowały dwa zarządzenia józefa ii z lat 178485 które narzucały poszczególne elementy pogrzebu
+w 1809 r konstancja poślubiła duńskiego dyplomatę georga nicolausa von nissena który był miłośnikiem dzieł mozarta i napisał pierwszą biografię kompozytora
+mozart nie miał trudnego życia często otrzymywał wynagrodzenie za swoją pracę i gdy już posiadał pieniądze to trwonił wielkie sumy prowadząc ekstrawagancki styl życia świadczyło to jednak nie o jego próżności lecz o chęci aktywnego zaistnienia w wiedeńskim świecie muzyków co miało przynieść w efekcie dodatkowe dochody dużych wydatków przysparzała mozartowi również jego żona konstancja gdy była już szósty raz w ciąży miała duże problemy ze stopami co zmuszało ją do częstych i długich wyjazdów do uzdrowiska baden bei wien
+edytuj dzieci mozarta
+
+reimund leopold mozart ur 27 czerwca 1783 w wiedniu zm 19 sierpnia 1783 w wiedniu
+carl thomas mozart ur 21 września 1784 w wiedniu zm 31 października 1858 w mediolanie
+johann thomas leopold mozart ur 18 października 1786 w wiedniu zm 15 listopada 1786 w wiedniu
+theresia maria anna mozart ur 27 grudnia 1787 w wiedniu zm 29 czerwca 1788 w wiedniu
+anna maria mozart ur zm 16 listopada 1789 w wiedniu
+franz xaver wolfgang mozart ur 26 lipca 1791 w wiedniu zm 19 lipca 1844 w karlsbadzie
+
+z szóstki dzieci które przyszły na świat w trakcie 9letniego małżeństwa wolfganga i konstancji 178291 dzieciństwo przeżyli tylko dwaj synowie żaden z nich nie ożenił się i nie pozostawił potomstwa ród wolfganga amadeusza mozarta w linii prostej wymarł w połowie xix w
+
+
+
+
+portret mozarta 1782 joseph lange
+
+
+edytuj twórczość
+mimo iż mozart żył niecałe 36 lat zdążył pozostawić po sobie kilkaset skrzących się dowcipem i wyróżniających słynną mozartowską lekkością oraz melodyjnością utworów ponad 50 symfonii kilkadziesiąt koncertów fortepianowych skrzypcowych fletowych i na inne instrumenty solowe z towarzyszeniem orkiestry blisko 20 mszy a także słynne acz niedokończone przez niego requiem oraz inne utwory muzyki kościelnej 13 oper które do dnia dzisiejszego znajdują się w repertuarze wszystkich teatrów operowych świata zwłaszcza takie arcydzieła jak uprowadzenie z seraju wesele figara don giovanni czarodziejski flet cosí fan tutte czy też mniej znana u nas jego pierwsza większa opera idomeneo król krety mozart napisał również wiele utworów kameralnych solowych jest także pierwszym wielkim twórcą wśród zawodowych kompozytorów piszących muzykę rozrywkową tańce divertimenta serenady na czele z eine kleine nachtmusik kv 525
+edytuj opery
+mozart z największym entuzjazmem o którym świadczą również jego listy pisał opery w ciągu niespełna 23 lat skomponował ponad 20 dzieł scenicznych przede wszystkim w panującym wówczas stylu włoskim i do włoskich na ogół tekstów
+w 1767 mozart skomponował swoją pierwszą operę jeśli można jej mianem określić scholastyczny dramat muzyczny apollo et hyacinthus kv 38 kolejna bastien i bastienne 1768 kv 50=46b dała już całkiem inny rezultat młody muzyk był już zdolny do panowania nad tematem a jego muzyka emanowała sielankową radością i urokiem spontaniczności la finta semplice 1768 kv 51 jest pierwszym podejściem mozarta do gatunku określanego opera buffa opera komiczna
+później na zlecenia otrzymane w mediolanie i salzburgu powstały pierwsze włoskie opery opera seria i serenata teatrale mitridate re di ponto 1770 kv 87 ascanio in alba 1771 kv 111 il sogno di scipione 1771 kv 126 lucio silla 1772 kv 135 pierwszym operom seria brakuje formalnej perfekcji starszego mozarta libretta są nieprzekonujące i nieprawdopodobne był to jednak powszechny mankament ówczesnych oper
+w dziele la finta giardiniera 17741775 kv 196 mozart wraca do opera buffa przewyższając wszystkie poprzednie wzory tego gatunku mimo wad libretta postacie nie są już schematyczne lecz stają się autentycznymi osobowościami zaś muzyka dobitnie przyczynia się do ich podkreślenia
+wśród niewielu oper do tekstu niemieckiego najważniejsze są singspiele śpiewogry uprowadzenie z seraju i czarodziejski flet chociaż legenda głosi a film miloša formana amadeusz ją utrwala że po premierze uprowadzenia z seraju cesarz józef ii powiedział do mozarta za dużo nut utwór odniósł ogromny sukces i przyniósł kompozytorowi sławę również poza wiedniem modna w tym czasie stylizacja muzyki tureckiej polegała na większej niż zazwyczaj ilości szybkich dźwięków w dynamice forte obecności egzotycznych ozdobników o nietypowej chromatyce i janczarskiej instrumentacji w rozbudowanym finale 2 aktu1
+trzy najwybitniejsze włoskojęzyczne opery mozarta powstały do librett napisanych przez lorenza da ponte są to wesele figara don giovanni i così fan tutte
+wesele figara 1786 kv 492 zostało oparte na le marriage de figaro pierrea beaumarchais dziele które było źle przyjęte i rzadko wykonywane we francji z powodu krytyki wad dominujących klas społecznych duchowieństwa i arystokracji przeciwstawionych zdrowemu duchowi trzeciego stanu w austrii opera mozarta także spotkała się ze sprzeciwem ze strony dworu cesarskiego chociaż da ponte usunął z oryginalnego tekstu najbardziej drastyczne wątki polityczne podtrzymując jednak naganną ocenę postępowania hrabiego almavivy opera została po raz pierwszy wykonana wiosną 1786 w wiedeńskim burgtheater odnosząc ogromny sukces powstała commedia per musica  zabawna ale z morałem i czytelną krytyką stosunków społecznych tradycyjna komedia charakterów ustąpiła w niej miejsca komedii sytuacyjnej gdyż żadna z postaci nie jest śmieszna a tym bardziej ośmieszana  zabawne są jedynie ich perypetie w znakomitych ensemblach charaktery kontrapunktują się mozart najbardziej lubił sekstet w trzecim akcie gdy stopniowo wyjaśniają się nieporozumienia narosłe w wyniku wcześniejszych intryg ale każdy z bohaterów inaczej reaguje na tę zmianę sytuacji odczuwają oni radość wzruszenie albo złość a muzyka tę różnorodność reakcji wyśmienicie oddaje2
+
+
+
+
+stavovské divadlo praga  w tym teatrze swoje światowe prapremiery miały opery don giovanni i łaskawość tytusa
+
+
+wyjątkowy sukces wesele figara odniosło w pradze w teatrze narodowym hrabiego von nostitza stavovské divadlo w efekcie u mozarta zamówiono nową operę i powstał don giovanni kolejna w dziejach teatru opowieść o uwodzicielu ponoszącym karę za niemoralny tryb życia
+don giovanni określany jest jako wesoły dramat dramma giocoso a równocześnie ma momenty dramatyczne a nawet tragiczne romantycy najchętniej kończyli operę sceną w której głównego bohatera pochłania piekło w xx wieku zazwyczaj można obejrzeć na końcu sekstet z udziałem pozostałych z wyjątkiem głównego bohaterajak również komandora postaci które tłumaczą że obejrzeliśmy przypowiastkę z morałem służącą rozrywce czyli taki właśnie wesoły dramat
+uważa się że muzyka tej opery jeszcze lepiej niż w weselu figara maluje zróżnicowane portrety psychologiczne bohaterów główny bohater przyjmuje ton bohaterski uwodzicielski lub prowokujący w zależności od okoliczności jego służący leporello często bywa nieodparcie komiczny ale w sytuacjach dramatycznych jest równie przejmujący jak postacie poważne bohaterki reprezentują trzy różne światy i trzy style muzyczne dramatycznoliryczne są arie donny anny z barokową emfazą śpiewa donna elwira natomiast partia wieśniaczki zerliny pełna jest rokokowego wdzięku i naiwności2
+do singspielu śpiewogry mozart powrócił pisząc w 1791 r czarodziejski flet kv 620 do baśniowego libretta które napisał emanuel schikaneder był on również jak byśmy dzisiaj powiedzieli producentem i reżyserem pierwszej inscenizacji tej opery w której ponadto śpiewał jedną z głównych ról  papagena podobnie jak w uprowadzeniu z seraju także i w czarodziejskim flecie dialogi są mówione a nie śpiewane i to w języku niemieckim co było typowe dla singspieli przeznaczonych dla szerszej widowni niż opery seria we włoskim stylu i języku
+chronologiczna lista oper
+
+udana naiwność kv 51
+bastien i bastienne kv 50
+mitrydates król pontu kv 87
+askaniusz w albie kv 111
+sen scypiona kv 126
+lucio silla kv 135
+rzekoma ogrodniczka kv 196
+król pasterz kv 208
+idomeneo król krety kv 366
+uprowadzenie z seraju kv 384
+dyrektor teatru kv 486
+wesele figara kv 492
+don giovanni kv 527
+così fan tutte kv 588
+łaskawość tytusa kv 621
+czarodziejski flet kv 620
+
+oprócz nich istnieją także opery niedokończone
+
+zaide kv 344
+gęś z kairu kv 422
+mąż zawiedziony kv 430
+
+mozart napisał też muzykę do dramatu heroicznego geblera  thamos król egiptu kv 345
+edytuj utwory religijne
+muzyka sakralna mozarta to głównie kompozycje wokalne chociaż są też przykłady muzyki instrumentalnej jak 17 sonat kościelnych lub organowych na dwoje skrzypiec kontrabas i organy niektóre także z trąbkami i kotłami skomponowanych między rokiem 1767 i 1780
+kompozycje sakralne obejmują 19 mszy wśród nich weisenhaus messe cmoll kv 139 pewną liczbę dzieł należących do gatunku missa brevis tzw msze krótkie napisanych głównie w salzburgu kv 167192194195 oraz tzw wróbla msza kv 220 a przede wszystkim koronacyjna kv 317 wielka msza cmoll kv 427 z nieukończonym credo i brakującym agnus dei i ostatnie dzieło mozarta requiem dmoll kv 626 napisane w 1791 po 8letniej przerwie gdy w ogóle nie komponował mszy a ukończone przez franza xavera süssmayra po śmierci mozarta
+do dzieł sakralnych należy szereg kompozycji innego rodzaju wśród nich kyrie ofertoria antyfony motety exsultate jubilate kv 165 oraz bardzo znane ave verum corpus kv 618
+muzyka sakralna mozarta prezentuje bogatą stylistycznie mozaikę elementy tematów chorału gregoriańskiego spotykają się z surowymi kontrapunktami niekiedy pojawiają się elementy operowe
+edytuj muzyka instrumentalna
+twórczość dla zespołów instrumentalnych obok symfonii obejmuje divertimenta nokturny serenady min serenadę eine kleine nachtmusik kv 525 cassazioni marsze i tańce
+edytuj symfonie
+
+symfonie wolfganga amadeusza mozarta cz 13
+
+numer w edycji breitkopfa
+tonacja
+k
+k6
+rok
+uwagi
+
+
+1
+esdur
+16
+16
+17641765
+
+
+
+2
+bdur
+17
+17
+1764
+autorstwo wątpliwe
+
+
+3
+esdur
+18
+18
+1764
+autor k f abel
+
+
+4
+ddur
+19
+19
+1764
+
+
+
+5
+bdur
+22
+22
+1765
+
+
+
+6
+fdur
+43
+43
+1767
+
+
+
+7
+ddur
+45
+45
+1768
+
+
+
+8
+ddur
+48
+48
+1768
+
+
+
+9
+cdur
+73
+73
+1772
+
+
+
+10
+gdur
+74
+74
+1770
+
+
+
+11
+ddur
+84
+73q
+1770
+
+
+
+12
+gdur
+110
+75b
+1771
+
+
+
+13
+fdur
+112
+112
+1771
+
+
+
+14
+adur
+114
+114
+1771
+
+
+
+15
+gdur
+124
+124
+1772
+
+
+
+16
+cdur
+128
+128
+1772
+
+
+
+17
+gdur
+129
+129
+1772
+
+
+
+18
+fdur
+130
+130
+1772
+
+
+
+19
+esdur
+132
+132
+1772
+
+
+
+20
+ddur
+133
+133
+1772
+
+
+
+21
+adur
+134
+134
+1772
+
+
+
+22
+cdur
+162
+162
+1773
+
+
+
+23
+ddur
+181
+162b
+1773
+
+
+
+24
+bdur
+182
+173da
+1773
+
+
+
+25
+gmoll
+183
+173db
+1773
+
+
+
+26
+esdur
+184
+161a
+1773
+
+
+
+27
+gdur
+199
+161b
+1773
+
+
+
+28
+cdur
+200
+189k
+17731774
+
+
+
+29
+adur
+201
+186a
+1774
+
+
+
+30
+ddur
+202
+186b
+1774
+
+
+
+31
+ddur
+297
+300a
+1778
+paryska
+
+
+32
+gdur
+318
+318
+1779
+
+
+
+33
+bdur
+319
+319
+1779
+
+
+
+34
+cdur
+338
+338
+1780
+
+
+
+35
+ddur
+385
+385
+1782
+haffnerowska
+
+
+36
+cdur
+425
+425
+1783
+linzka
+
+
+37
+gdur
+444
+425a
+1783
+wstęp do symfonii gdur michaela haydna
+
+
+38
+ddur
+504
+504
+1786
+praska
+
+
+39
+esdur
+543
+543
+1788
+
+
+
+40
+gmoll
+550
+550
+1788
+2 wersje
+
+
+41
+cdur
+551
+551
+1788
+jowiszowa
+
+
+oprócz wymienionych wyżej symfonii mozart skomponował inne symfonie z których część zostało ponumerowanych od 42 do 55 z tym że brak w numeracji symfonii 49 oraz 53 symfonie zamieszczone w poniższej tabeli są mało znanymi kompozycjami rzadko wykonywanymi i nagrywanymi w pierwszej wersji katalogu köchla z 1862 roku symfonie wymieniono w dodatku do katalogu
+
+symfonie wolfganga amadeusza mozarta cz 24
+
+numer w edycji breitkopfa
+tonacja
+k
+k6
+rok
+uwagi
+
+
+42
+fdur
+75
+75
+1771
+
+
+
+43
+fdur
+76
+42a
+1767
+
+
+
+44
+ddur
+81
+73l
+1770
+
+
+
+45
+ddur
+95
+73n
+1770
+przypisywana również leopoldowi mozart
+
+
+46
+cdur
+96
+111b
+1771
+
+
+
+47
+ddur
+97
+73m
+1770
+
+
+
+48
+ddur
+120
+111a
+1771
+finał symfonii
+
+
+50
+ddur
+161163
+141a
+17731774
+
+
+
+51
+ddur
+121
+207a
+17741775
+
+
+
+52
+cdur
+102
+213c
+1775
+
+
+
+54
+bdur
+a216
+c1103
+17701771
+
+
+
+55
+bdur
+a214
+45b
+1768
+
+
+
+
+adur
+a220
+16a
+1765
+
+
+
+
+fdur
+a223
+19a
+1765
+
+
+
+
+cdur
+a222
+19b
+1765
+zaginęła
+
+
+7a
+ddur
+a221
+45a
+1768
+alte lambach
+
+
+
+ddur
+a215
+66c
+1769
+
+
+
+
+bdur
+a217
+66d
+1769
+zaginęła
+
+
+
+bdur
+a218
+66e
+1769
+zaginęła
+
+
+od 1764 roku kv 16 mozart stworzył ponad 50 symfonii zachowało się 415
+
+tzw wczesne symfonie 17641771 napisane w stylu włoskich uwertur zbudowane są z następujących części allegroandanteallegro tylko w niektórych z nich pojawił się menuet jako część trzecia charakterystyczna dla późniejszej w pełni ukształtowanej formy symfonicznej  symfonia no 1 symfonia no 2 warto więc zauważyć że niewłaściwe i bardzo mylące jest porównywanie symfonicznego dorobku kompozytorskiego mozarta z dziełami późniejszych twórców  na imponującą liczbę symfonii mozarta wpływ miało inne pojmowanie formy kompozycji
+
+wyróżnia się trzy cykle symfonii salzburskich
+
+symfonie salzburskie 177273  11 symfonii z tego cyklu napisanych przed trzecią podróżą do włoch może być podzielonych na dwie grupy 5 germańskich symfonii koncertowych z menuetami kv 161a kv 161b kv 162 kv 162b kv 173da każda trwająca ok 2025 minut 6 włoskich symfonii w stylu uwertury bez menueta kv 135 kv 141a kv 161a kv 162 kv 162b kv 173da każda trwająca ok 89 minut żadna z tych symfonii nie została opublikowana drukiem za życia mozarta
+symfonie salzburskie 177375  ten cykl symfoniczny także może być podzielony na dwie grupy z których bardziej znacząca zawiera 7 germańskich symfonii koncertowych z menuetem kv 183 kv 185 kv 200204 a druga tylko jedną symfonię we włoskim stylu kv 121 napisaną na podstawie uwertury operowej także i żadna z tych symfonii nie ukazała się drukiem za życia mozarta
+symfonie salzburskie 17751783  podczas gdy w okresie od 1770 do 1775 mozart stworzył nie mniej niż 36 symfonii w następnych ośmiu latach powstało ich jedynie 9 można to tłumaczyć rozczarowaniem kompozytora w stosunku do salzburskiego establishmentu jak również miernego poziomu zespołów muzycznych jakie istniały w mieście ten okres może być też uznany za przejściowy ku okresowi ostatnich największych symfonii
+
+
+w 1778 mozart przybył do paryża w poszukiwaniu posady godnej jego talentu ale takiej właściwie nie znalazł niemniej jednak to w czasie tej wizyty napisał tak zwaną symfonię paryską kv 297 która jest szczególnie interesująca z racji bogatej i nowoczesnej instrumentacji
+
+
+xxxv symfonia  haffnerowska kv 385 została skomponowana w 1782 na zamówienie z salzburga po ostatecznym przeniesieniu się kompozytora do wiednia pierwotnie zawierała wprowadzający marsz który później został usunięty i dwa menuety z których tylko jeden pozostał w końcowej wersji
+
+
+xxxvi symfonia linzka kv 425 została napisana w 1783 gdy mozart przejeżdżał przez to miasto w drodze powrotnej z salzburga
+
+
+xxxviii symfonia praska kv 504 powstała w wiedniu pod koniec 1786  z myślą o wyjeździe kompozytora do pragi w styczniu 1787 jest ona znacznie trudniejsza do wykonania i bardziej zaawansowana konceptualnie niż jakakolwiek z poprzednich symfonii mozarta
+
+
+końcowa trylogia symfonii mozarta kv 543 kv 550 kv 551 została ukończona w ciągu trzech miesięcy 1788 roku jest prawdopodobne że autor chciał wydać te utwory razem jako jedno dzieło chociaż właściwie pozostały one nieopublikowane aż do jego śmierci tylko jedna z nich mogła być publicznie wykonywana w lipsku w 1789
+
+
+mniej znaną i rzadziej wykonywaną z tych trzech symfonii jest xxxix symfonia kv 543 esdur być może dlatego że pomysły które mozart starał się zbadać w tym dziele z trudem poddają się przełożeniu na nowoczesne bardziej potężne instrumenty
+
+
+xl symfonia kv 550 gmoll jest jedną z dwóch molowych symfonii mozarta druga to tzw mała gmoll kv 183 skomponowana w 1773 jest ona jedną z najczęściej wykonywanych symfonii mozarta zespół muzyczny obejmuje szczególnie subtelne instrumenty dęte z klarnetami dodanymi w drugiej wersji temat główny tej symfonii mozart wprowadza już na samym początku po zaledwie kilku nutkach zresztą użyty już był on wcześniej 21 koncert fortepianowy cdur kv 467 allegro choć obecnie kojarzony przede wszystkim z 40 symfonią
+
+
+xli symfonię jowiszową kv 551 przydomek nie został nadany przez mozarta lecz prawdopodobnie przez johanna petera salomona charakteryzuje pompatyczne nieco użycie z początkiem pierwszej części trąbek i kotłów andante cantabile jest głęboko poruszające a nawet w menuecie można usłyszeć mistrzostwo techniki kontrapunktycznej najważniejszy jest w niej finał którego czteronutowy motyw zaczynający temat był wielokrotnie używany przez samego mozarta w różnych utworach6 następują kolejno zmienne przeciwstawiane i łączone motywy ujęte w formę sonatową prowadzą do cody w której pojawia się pięć głównych motywów przeprowadzonych w technice kontrapunktycznej
+
+edytuj koncerty solowe
+edytuj koncerty fortepianowe
+
+koncerty fortepianowe wolfganga amadeusza mozarta7
+
+numer w edycji breitkopfa
+tonacja
+k
+k6
+rok
+uwagi
+
+
+1
+fdur
+37
+37
+1767
+aranżacja koncertu cz1 h f raupach op1 nr 5 cz2160 cz3 l honauer op2 nr 3
+
+
+2
+bdur
+39
+39
+1767
+aranżacja koncertu cz1 h f raupach op1 nr 1 cz2 j schubert op17 nr 2 cz3 h f raupach op1 nr 1
+
+
+3
+ddur
+40
+40
+1767
+aranżacja koncertu cz1 l honauer op2 nr 1 cz2 j g eckard op1 nr 4 cz3 c p e bach wq 17
+
+
+4
+gdur
+41
+41
+1767
+aranżacja koncertu cz1 l honauer op1 nr 1 cz2 h f raupach op1 nr 1 cz3 l honauer op1 nr 1
+
+
+
+ddur
+107 1
+107 1
+1772
+aranżacja koncertu j c bacha op5 nr 2
+
+
+
+gdur
+107 2
+107 2
+1772
+aranżacja koncertu j c bacha op5 nr 3
+
+
+
+esdur
+107 3
+107 3
+1772
+aranżacja koncertu j c bacha op5 nr 4
+
+
+5
+ddur
+175
+175
+1773
+nowy finał dla koncertu ddur stanowi rondo nr 1 ddur kv 382 z 1785 roku
+
+
+6
+bdur
+238
+238
+1776
+
+
+
+7
+fdur
+242
+242
+1776
+koncert na 3 fortepiany istnieje również wersja na 2 fortepiany
+
+
+8
+cdur
+246
+246
+1776
+lützow
+
+
+9
+esdur
+271
+271
+1777
+jeunehomme
+
+
+10
+esdur
+365
+316a
+1779
+koncert na dwa fortepiany
+
+
+12
+adur
+414
+385p
+1782
+finał koncertu adur miało stanowić prawdopodobnie rondo nr 2 adur k 386 z 1782 roku
+
+
+11
+fdur
+413
+387a
+17821783
+
+
+
+13
+cdur
+415
+387b
+17821783
+
+
+
+14
+esdur
+449
+449
+1784
+
+
+
+15
+bdur
+450
+450
+1784
+
+
+
+16
+ddur
+451
+451
+1784
+
+
+
+17
+gdur
+453
+453
+1784
+
+
+
+18
+bdur
+456
+456
+1784
+
+
+
+19
+fdur
+459
+459
+1784
+
+
+
+20
+dmoll
+466
+466
+1785
+
+
+
+21
+cdur
+467
+467
+1785
+
+
+
+22
+esdur
+482
+482
+1785
+
+
+
+23
+adur
+488
+488
+1786
+
+
+
+24
+cmoll
+491
+491
+1786
+
+
+
+25
+cdur
+503
+503
+1786
+
+
+
+26
+ddur
+537
+537
+1788
+koronacyjny z okazji koronacji cesarza leopolda ii we frankurcie
+
+
+27
+bdur
+595
+595
+17881791
+
+
+mozart ukończył 25 koncertów fortepianowych stały się wzorcem klasycznego koncertu solowego wszystkie są trzyczęściowe nie ma jednak dwóch identycznych form nigdy też solista nie powtarza dosłownie fraz granych przez orkiestrę ani orkiestra nie powtarza partii solisty obsada orkiestrowa też jest różnorodna same instrumenty smyczkowe smyczkowe wraz z dętymi ad libitum aż po pełną obsadę symfoniczną z trąbkami i kotłami porównując kolejne utwory zauważa się jak orkiestra stopniowo awansowała z pozycji akompaniatora do roli partnera solisty charakter muzyki często nasuwa skojarzenia z operową muzyką mozarta8
+15 najwybitniejszych koncertów powstało od końca 1782 roku przez 4 najbliższe lata kiedy mozart organizował serie koncertów są to
+
+sezon 178283 fdur kv 413 adur kv 414 cdur kv 415
+
+
+sezon 178384 esdur kv 449 bdur kv 450 ddur kv 451 gdur kv 453
+
+
+sezon 1784 bdur kv 456 fdur kv 459 wiosną 1784 w ciągu niespełna 6 tygodni dał 22 koncerty do ojca pisał wtedy że ciągle musi grać nowe rzeczy
+
+
+sezon 1785 dmoll kv 466 cdur kv 467
+sezon 178586 esdur kv 482 adur kv 488 cmoll kv 491 cdur kv 503
+
+warto podkreślić że mozart lubił posługiwać się nie tylko autocytatami i tak na przykład w koncercie nr 25 cdur kv 503 w finale i jego części allegro maestoso słyszymy początek marsylianki który przewija się zresztą przez całe to allegro sugeruje to również że sama linia melodyczna marsylianki jest wcześniejsza niż z roku 1792
+w 1788 chciał znów organizować koncerty i dlatego skomponował koncert ddur kv 537 zw koronacyjnym ostatni koncert fortepianowy bdur kv 595 napisał dla siebie w 1791
+edytuj koncerty na różne instrumenty
+mozart skomponował ponad 20 koncertów na instrumenty inne niż fortepian na instrumenty dęte najlepsze koncerty powstawały dla muzyków zaprzyjaźnionych z kompozytorem
+
+pięć koncertów na skrzypce i orkiestrę kv 207 211 216 218 219 napisał w salzburgu kiedy był koncertmistrzem orkiestry arcybiskupa a więc pisał jej zapewne dla siebie samego wyjątkowy jest w tej grupie koncert adur kv 219 z finałem w niezwykłym w tej części rytmie menueta i z epizodami alla turca
+koncert na harfę flet i orkiestrę kv 299 o bardzo pięknym wysoce oryginalnym brzmieniu 
+koncert na fagot i orkiestrę kv 191 1774
+koncert klarnetowy adur kv 622 powstał dla antona stadlera a mozart wyjątkowo lubił brzmienie tego instrumentu
+cztery koncerty na róg i orkiestrę napisane w różnych latach między 1782 i 1786 rokiem dla josepha leutgeba
+
+i ddur kv 412
+ii esdur kv 417
+iii esdur kv 447
+iv esdur kv 495
+
+
+
+charakteryzują się eleganckim i pełnym humoru dialogiem między solistą a orkiestrą
+
+symfonia koncertująca esdur na skrzypce altówkę i orkiestrę kv 364 sinfonia concertante 1779 z niezwykłą partią altówki którą wcześniej w solowej roli wykorzystał tylko carl stamitz
+symfonia koncertująca na flet obój róg fagot i orkiestrę kv 279b sinfonia concertante jest uznana za zaginioną a znany utwór na podobny skład obój klarnet róg fagot prawdopodobnie ma niewiele lub nic wspólnego z mozartem
+
+zob też
+
+koncerty instrumentalne
+koncerty fortepianowe
+koncerty skrzypcowe
+
+edytuj serenady divertimenta itp
+w piękne letnie noce o każdej porze można natrafić na uliczne serenady taką nocną muzykę na którą składa się dość znaczna liczba utworów wykonuje zazwyczaj trio lub kwartet instrumentów dętych wieczory poprzedzające dni imienin pięknych dam obfitowały w ten rodzaj rozrywki i nieraz mimo późnej pory w kilka chwil wszystkie okna były wypełnione a muzyków otaczał oklaskujący ich tłum opisywał życie muzyczne na ulicach wiednia charles burney9 podobnie bywało w w salzburgu z takich okazji powstawały divertimenta wł fr = rozrywka zabawa kasacje żarg austr gassatim gehen = spacerowaćgrać w zaułkach notturni fr nocturne = nocny i serenady wł sera = wieczór złożone z wielu krótkich części rozpoczynając i kończąc marszem zawierały tańce głównie menuety oraz epizody śpiewne w dorobku mozarta są to chociażby wczesne divertimenti kv 136138 na obsadę smyczkową jak również utwory na instrumenty dęte i rozmaite kombinacje instrumentów smyczkowych i dętych tak zwana gran partita kv 361 serenada jest najznakomitszym dziełem mozarta na zespół kameralny złożony z dwóch obojów dwóch klarnetów dwóch rożków basetowych czterech rogów myśliwskich dwóch fagotów i kontrabasu mozart pozostawił ogromną liczbę tańców z orkiestrą włączając w to menuety ponad 100 kontredanse i deutsche tänze albo ländler będący pierwowzorem walca deutsche tänze 56 w okresie 17871791 zostały napisane głównie na publiczne bale w wiedniu w kontredansach także pisanych głównie w wiedniu można znaleźć elementy muzyki programowej jak il temporale kv 535 la bataille kv 600 canarino kv 602 itd
+edytuj muzyka kameralna
+
+na muzykę kameralną mozarta składa się 26 kwartetów smyczkowych wśród nich divertimenti kv 136 137 138 które są raczej uwerturami we włoskim stylu i 6 kwintetów smyczkowych cykl trzyczęściowych tzw kwartetów mediolańskich kv 80 i kv 155160 jest o tyle interesujący że utwory te mogą być uznane za prekursorskie w stosunku do późniejszych bardziej rozbudowanych kwartetów smyczkowych bardziej rozbudowane stylistycznie są kwartety wiedeńskie kv 168173 skomponowane w 1773 prawdopodobnie w wiedniu mozart słyszał kwartety józefa haydna i był pod ich wielkim wrażeniem powrócił do kwartetu we wczesnych latach 80 po przeniesieniu się do wiednia i osobistym poznaniu haydna z którym się zaprzyjaźnił joseph haydn opublikował właśnie zbiór sześciu kwartetów  które jak się uważa były powodem dla którego mozart powrócił do kwartetu z czasem 17821785 mozart ukończył sześć kwartetów kv 387 421 428 458 464 465 kwartety te często są nazywane kwartetami haydnowskimi bo były dedykowane haydnowi albo opus x bo tak zostały wydane
+ostatnie trzy kwartety kwartety pruskie kv 575 589 590 dedykowane królowi prus fryderykowi wilhelmowi ii są cenione za śpiewny charakter partii wiolonczeli instrument na którym grywał sam król słodycz dźwięków i równowagę między poszczególnymi instrumentami
+ mniej liczne kwintety smyczkowe kv 174 515 516 593 614 na dwoje skrzypiec dwie altówki i wiolonczelę niekiedy uznaje się za będące na jeszcze wyższym poziomie niż kwartety wśród nich jest kwintet gmoll kv 516 przez wielu uznany za najwspanialszy nastrój namiętności i tragedii w tym utworze przypomina symfonię w tej samej tonacji
+mozart napisał wiele innych utworów kameralnych na różne składy instrumentów takich jak sonaty i wariacje na fortepian i skrzypce dwa duety na skrzypce i altówkę kv 423 424 kwintet na klarnet i smyczki adur kv 581 kwintet na fortepian i instrumenty dęte esdur kv 452 o którym wypowiedział się w liście do ojca że to najlepszy utwór jaki dotychczas napisał kwartet na obój i instrumenty smyczkowe fdur kv 370
+kwartety i kwintety smyczkowe są czteroczęściowe tak jak symfonie tria fortepianowe oraz utwory kameralne z udziałem instrumentu dętego są trzyczęściowe jak koncerty instrumentalne w utworach na same smyczki znakomity jest kontrapunkt w utworach na instrumenty z różnych grup  na przykład w kwintecie klarnetowym adur kv 581  bardzo efektowne są epizody koncertujące
+bardzo oryginalnym utworem kameralnym mozarta jest adagio cmoll i rondo cdur na szklaną harmonikę flet obój altówkę i wiolonczelę kv 617 1791 na szklaną harmonikę solo mozart napisał natomiast krótkie adagio cdur kv 356
+
+edytuj solowa muzyka fortepianowa
+
+sonata fortepianowa amoll kv 310
+sonata fortepianowa adur kv 331
+fantazja na fortepian dmoll kv 397
+fantazja na fortepian cmoll kv 475
+rondo na fortepian amoll kv 511
+sonata cdur na dwa fortepiany kv 521
+
+między rokiem 1782 i 1786 mozart napisał 20 utworów na fortepian solo wśród nich sonaty wariacje fantazje suity ronda i utwory fortepianowe na cztery ręce oraz na dwa fortepiany
+
+
+
+
+ludwig von köchel
+
+
+edytuj katalog köchla
+
+
+160osobny artykuł kv muzyka
+
+
+dorobek mozarta to ponad 600 kompozycji w tym 20 oper 68 symfonii 27 koncertów i 19 mszy po jego śmierci podejmowano kilka prób zinwentaryzowania jego kompozycji ale przedsięwzięcie takie udało się dopiero w 1862 ludwigowi von köchlowi wiedeńskiemu botanikowi mineralogowi i nauczycielowi wielka księga köchla licząca 551 stron została zatytułowana chronologischthematisches verzeichnis sämtlicher tonwerke wolfgang amadé mozarts niem chronologicznotematyczny spis wszystkich dzieł muzycznych wolfganga amadeusza mozarta od nazwiska köchla wywodzi się także sygnatura kv köchelverzeichnis  katalog köchla umieszczana przed kolejnym numerem dzieł mozarta w miejsce zwyczajowego opus w literaturze anglojęzycznej stosowana jest sygnatura k
+edytuj recepcja
+spojrzenie na postać i muzykę mozarta należy do najbardziej złożonych zjawisk w historii muzyki a wokół jego osoby narosło wiele legend i kontrowersji wielu ludziom trudno wyobrazić sobie jak człowiek który przeżył zaledwie 35 lat zdołał napisać bez mała 700 utworów często tak rozbudowanych jak opery lub oratorium a przy tym bardzo oryginalnych chociaż przecież pisać zaczął w bardzo młodym wieku fascynuje też jego pamięć muzyczna i wielokrotnie powtarza się jak np zapisał z pamięci miserere gregoria allegri po jednorazowym wysłuchaniu go w kaplicy sykstyńskiej
+w xix wieku mozart cieszył się umiarkowaną popularnością znano przede wszystkim jego trzy opery wesele figara czarodziejski flet i don giovanniego requiem koncerty fortepianowe dmoll i cmoll oraz trzy ostatnie symfonie które najlepiej pasowały do romantycznych ideałów kult beethovena sprawił że jeszcze do połowy xx wieku uważano iż w wielu dziedzinach mozart mu ustępował i dopiero odejście od podobnego sposobu widzenia dziejów sztuki pozwoliło docenić osiągnięcia mozarta które w niektórych dziedzinach były tak wyjątkowe że właściwie nie znalazły następców10
+wielu kompozytorów wielbiło natomiast mozarta beethoven powiedział do swojego ucznia riesa że nigdy nie byłby w stanie stworzyć melodii tak pięknej jak pierwsze ustępy 24 koncertu fortepianowego i złożył hołd mozartowi pisząc wariacje oparte na jego tematach jak dwa zbiory wariacji na wiolonczelę i fortepian opartych na tematach z czarodziejskiego fletu i cadenzy do szeregu koncertów fortepianowych min do koncertu kv 466 także jedna z wariacji na temat walca diabellego jest nawiązaniem do arii leporella notte e giorno faticar z opery don giovanni co beethoven podkreśla w tytule wariacje na tematy z dzieł mozarta napisał też min fryderyk chopin la ci darem la mano z don giovanniego wielbicielem mozarta był gioacchino rossini czajkowski napisał suitę mozartiana na cześć austriackiego kompozytora a mahler umarł ze słowem mozart na ustach krytyk muzyczny james svejda wypełniając podanie o pracę w pytaniu o religię napisał mozart
+jednak stosunek do jego muzyki do dzisiaj bywa różny jak podkreśla d gwizdalanka dla jednych mozart jest mistrzem ładnych melodii twórcą uroczych serenad i oper buffa w którego muzyce nie ma powodu doszukiwać się głębi dla innych mozart jest uosobieniem doskonałości a jego genialna inwencja harmoniczna źródłem przeogromnego bogactwa wyrazowego muzyki10
+edytuj mozart jako postać literacka
+legendy jakie narosły wokół osoby mozarta uczyniły go postacią atrakcyjną dla literatury a potem filmu chętnie opowiadano że mozart komponował requiem z myślą o własnej śmierci inna legenda głosiła jakoby mozart miał być zamordowany przez swoich braci z loży wolnomularskiej ponieważ w operze pod tytułem czarodziejski flet kv 620 zdradził tajemnice ich misterium
+rzekoma rywalizacja między mozartem i antonio salierim stała się tematem sztuki aleksandra puszkina mozart i salieri nikołaj rimskikorsakow skomponował operę mozart i salieri a peter shaffer napisał sztukę teatralną amadeus zekranizowaną w 1984 przez milosza formana większość dramatów opartych na życiu mozarta jest w dużej mierze fabularyzowana
+
+
+
+
+opakowanie pralinek firmy mirabell
+
+
+edytuj współczesne ślady mozarta w salzburgu
+w domu w którym urodził się mozart mozarts geburtshaus można zobaczyć skrzypce i klawikord na których grywał zgromadzono tu również dekoracje sceniczne do jego przedstawień operowych
+na makartplatz 8 w drugim salzburskim mieszkaniu rodziny mozarta mozarts wohnhaus zorganizowano stałą ekspozycję instrumentów muzycznych z epoki w mozarteum przy schwartstrasse 2628 można obejrzeć znajdującą się niegdyś w wiedniu niewielką chatkę drewnianą w której mozart napisał muzykę do czarodziejskiego fletu w barokowej katedrze na residenzplatz mozart był konzertmeistrem
+od imienia kompozytora nazwano powstałą w 1842 roku prestiżową akademię muzyczną mozarteum od 1917 odbywa się festiwal salzburski salzburger festspiele którego pomysłodawcami i założycielami byli max reinhardt ryszard strauss i hugo von hofmannsthal gromadzi tłumy melomanów rokrocznie w przeddzień otwarcia inaugurowany jest tańcem z pochodniami tzw fackeltanz w ramach festiwalu wystawiane są opery dramaty odbywają się koncerty projekcje filmów
+również cukiernicy wykorzystali popularność mozarta sprzedając pralinki o nazwie mozartkugel kula mozarta pierwszym który je produkował był paul fürst w jego ślady poszli niebawem inni wytwórcy także spoza salzburga
+edytuj muzyka mozarta w polsce
+muzyka mozarta cieszyła się w polsce popularnością już za jego życia z zachowanych przekazów wiemy że przed 1794 rokiem kilkakrotnie do warszawy przybywały włoskie trupy operowe które przedstawiały opery mozarta w większych miastach wykonywano także niektóre jego symfonie wiele wskazuje na to że w kręgu mieszczańskim i arystokratycznym znano również niektóre jego sonaty czy utwory kameralne w wieku xix popularność i dostępność dzieł mozarta znacznie wzrosła min dzięki rozwojowi drukarstwa muzycznego oraz powstaniem szeregu instytucji kulturalnych i koncertowych
+obecnie warszawa ma swój mozartowski festiwal na którym od lat wystawiane są wszystkie dzieła sceniczne mozarta corocznie od 2001 roku 4 grudnia o 2300 w kościele oo karmelitów bosych na wzgórzu św wojciecha w poznaniu sprawowana jest msza św z requiem za duszę w a mozarta z wiadomą oprawą muzyczną a od niedawna także i to miasto ma swój mozartowski festiwal
+edytuj zobacz też
+
+amadeusz film
+kompozytorzy muzyki poważnej
+köchelverzeichnis kv
+
+edytuj bibliografia
+
+
+stefan jarociński mozart polskie wydawnictwo muzyczne pwm kraków 1972
+a einstein mozart kraków pwm 1975
+wolfgang amadeusz mozart listy przekład i dembowski warszawa 1991
+n harnoncourt dialog muzyczny warszawa fundacja ruchu muzycznego 1982 s 110156
+lesław czapliński filmowe mozartiana o filmach biograficznych o mozarcie oraz ekranizacjach jego oper w iluzjon 11992
+jarosław mianowski afekt w operach mozarta i rossiniego poznań rhytmos 2004 isbn 8392033043
+d gwizdalanka mozart klasyk zagadkowy w historia muzyki 2 kraków pwm 2006 s 144163
+hieronim feicht mozart w polsce na przełomie xviii i xix wieku komitet roku mozartowskiego w polsce bd
+mozart i współcześni muzyka w europie środkowej w xviii wieku akademia muzyczna im grażyny i kiejstuta bacewiczów w łodzi łódź 2007
+
+
+edytuj posłuchaj
+
+
+
+
+
+kv 321 i część
+
+
+
+
+
+
+
+
+
+vesperae de dominica  dixit dominus
+
+
+
+
+kv 321 ii część
+
+
+
+
+
+
+
+
+
+vesperae de dominica  confitebor
+
+
+
+
+kv 321 iii część
+
+
+
+
+
+
+
+
+
+vesperae de dominica  beatus vir
+
+
+
+
+kv 321 iv część
+
+
+
+
+
+
+
+
+
+vesperae de dominica  laudate pueri
+
+
+
+
+kv 321 v część
+
+
+
+
+
+
+
+
+
+vesperae de dominica  laudate dominum
+
+
+
+
+kv 321 vi część
+
+
+
+
+
+
+
+
+
+vesperae de dominica  magnificat
+
+
+
+
+kv 378
+
+
+
+
+
+
+
+
+
+xxvi sonata skrzypcowa bdur
+
+
+
+
+kv 314
+
+
+
+
+
+
+
+
+
+ii koncert fletowy ddur
+
+
+
+
+kv 527
+
+
+
+
+
+
+
+
+
+uwertura opery don giovanni
+
+
+
+
+kv 622
+
+
+
+
+
+
+
+
+
+koncert klarnetowy adur  i część
+
+
+
+
+kv 622
+
+
+
+
+
+
+
+
+
+koncert klarnetowy adur  ii część
+
+
+
+
+k622
+
+
+
+
+
+
+
+
+
+koncert klarnetowy adur  iii część
+
+
+
+
+kv 330
+
+
+
+
+
+
+
+
+
+x sonata fortepianowa cdur
+
+
+
+
+kv 364
+
+
+
+
+
+
+
+
+
+symfonia koncertująca esdur
+
+
+
+
+kv 525
+
+
+
+
+
+
+
+
+
+eine kleine nachtmusik  iv część
+
+
+
+
+kv 550
+
+
+
+
+
+
+
+
+
+xl symfonia gmoll  i część
+
+
+
+
+kv 550
+
+
+
+
+
+
+
+
+
+xl symfonia gmoll  ii część
+
+
+
+
+kv 550
+
+
+
+
+
+
+
+
+
+xl symfonia gmoll  iv część
+
+
+
+w przypadku problemów z odtwarzaniem zobacz instrukcję obsługi
+
+
+
+symfonie
+xxv symfonia gmoll kv 183
+xxix symfonia adur kv 201
+xl symfonia gmoll kv 550
+
+
+koncerty fortepianowe
+xx koncert fortepianowy esdur cz iii kv 482
+
+
+tańce
+kontredans cdur kv 609
+
+
+uwertury oper
+wesele figara
+don giovanni
+czarodziejski flet
+
+
+divertimenti
+28 sonat fortepianowych midi
+
+przypisy
+
+
+ d gwizdalanka mozart klasyk zagadkowy w historia muzyki 2 kraków 2006 s 147
+ 20 21 d gwizdalanka historia muzyki 2 op cit s 147
+ tabela została opracowana na podstawie katalogu dzieł wamozarta zamieszczonego w the new grove dictionary of music and musicians oxford university press 1980 tom12 s734736 symbol k oznacza numer w wersji katalogu köchla z 1862 roku natomiast k6 oznacza numer wersji 61964 katalogu köchla z 1964 roku
+ tabela została opracowana na podstawie katalogu dzieł w a mozarta zamieszczonego w the new grove dictionary of music and musicians oxford university press 1980 tom12 s734736 symbol k oznacza numer w wersji katalogu köchla z 1862 roku natomiast k6 oznacza numer wersji 61964 katalogu köchla z 1964 roku katalog nie podaje numerów symfonii 48 51 52 54 55 7a
+ ponad 50 symfonii podaje d gwizdalanka historia muzyki 2 op cit s 160 i ponieważ jest to najnowsza książka wydana przez wydawnictwo specjalizujące się w muzyce więc można mieć nadzieję że jest to liczba najbardziej wiarygodna natomiast przewodnik po muzyce koncertowej wydany przez pwm w 2004 r podaje że zachowały się 41 symfonie s 115
+ motyw ten występuje w następujących utworach
+
+symfonia esdur kv 16 cz ii t 717
+missa brevis kv 192 początek credo
+msza cdur kv 257 początek sanctus
+symfonia bdur kv 319 cz i t 143146
+sonata na fortepian i skrzypce edur kv 481 cz i t 105108 i wielokrotnie do t 118
+ii divertimento bdur kv 439 menuet trio
+
+ponadto w motyw ten układają się tonacje symfonii r schumanna bcesd i j brahmsa cdfe wg d gwizdalanka historia muzyki 2 op cit s 160
+ tabela została opracowana na podstawie katalogu dzieł wamozarta zamieszczonego w the new grove dictionary of music and musicians oxford university press 1980 tom12 s740 oraz s746 symbol k oznacza numer w wersji katalogu köchla z 1862 roku natomiast k6 oznacza numer wersji 61964 katalogu köchla z 1964 roku
+ d gwizdalanka op cit s 153154
+ d gwizdalanka op cit s 113
+ 100 101 d gwizdalanka historia muzyki 2 kraków 2006 s 163
+
+
+edytuj linki zewnętrzne
+
+prywatna strona o wolfgangu a mozarcie
+fundacja mozarteum z salzburga  wszystkie partytury wolfganga a mozarta oraz komentarze edytorskie do dzieł wszystkich ang160160niem160160jap
+informacje o wolfgangu a mozarcie ze strony o salzburgu ang160160niem160160wł160160hiszp160160cz
+the european librarymozart
+
+edytuj partytury
+
+darmowe partytury w mutopia project ang
+wolfgang amadeusz mozart  nuty tego kompozytora dostępne w bibliotece cyfrowej international music score library project
+
+         
+
+
+
+
+
+
+				
+								
+				
+				źródło httpplwikipediaorgwindexphptitle=wolfgangamadeuszmozartampoldid=30435458				
+				
+												
+				kategorie wolfgang amadeusz mozartaustriaccy kompozytorzykompozytorzy klasycyzmuniemieccy kompozytorzy operowiaustriaccy kompozytorzy operowiaustriaccy wolnomularzeurodzeni w 1756zmarli w 1791ludzie związani z wiedniemludzie związani z salzburgiem				
+												
+				
+								
+			
+			
+		
+		
+		
+		
+			
+
+
+	osobiste
+	
+		logowanie i rejestracja
+	
+
+
+
+			
+				
+
+
+	przestrzenie nazw
+	
+					artykuł
+					dyskusja
+			
+
+
+
+
+
+
+	
+		
+	warianty
+	
+		
+					
+	
+
+
+
+			
+			
+				
+
+
+	widok
+	
+					czytaj
+					edytuj
+					historia i autorzy
+			
+
+
+
+
+
+
+	działania
+	
+		
+					
+	
+
+
+
+
+
+
+	szukaj
+	
+				
+																				
+		
+	
+
+
+
+			
+		
+		
+		
+			
+				
+					
+				
+				
+
+
+
+
+
+
+	nawigacja
+	
+		
+			strona główna
+			kategorie artykułów
+			najlepsze hasła
+			losuj artykuł
+		
+	
+
+
+
+
+
+
+	dla czytelników
+	
+		
+			zgłoś błąd
+			zgłoś błąd w pliku
+			częste pytania faq
+			strona kontaktowa
+			wykluczenie odpowiedzialności
+			wspomóż wikipedię
+		
+	
+
+
+
+
+
+
+	dla wikipedystów
+	
+		
+			ostatnie zmiany
+			zasady edytowania
+			pomoc
+			kawiarenka
+			ogłoszenia
+		
+	
+
+
+
+
+
+
+	narzędzia
+	
+		
+			linkujące
+			zmiany w dolinkowanych
+			strony specjalne
+			link do tej wersji
+cytowanie tego artykułu		
+	
+
+
+
+
+
+
+	drukuj lub eksportuj
+	
+		utwórz książkępobierz jako pdfwersja do druku	
+
+
+
+
+
+
+	w innych językach
+	
+		
+			afrikaans
+			alemannisch
+			አማርኛ
+			аҧсуа
+			العربية
+			aragonés
+			asturianu
+			aymar aru
+			azərbaycanca
+			বাংলা
+			bânlâmgú
+			basa banyumasan
+			башҡортса
+			беларуская
+			‪беларуская тарашкевіца‬
+			bikol central
+			български
+			boarisch
+			bosanski
+			brezhoneg
+			català
+			чӑвашла
+			cebuano
+			česky
+			chamoru
+			chavacano de zamboanga
+			corsu
+			cymraeg
+			dansk
+			deitsch
+			deutsch
+			dolnoserbski
+			eesti
+			ελληνικά
+			english
+			español
+			esperanto
+			estremeñu
+			euskara
+			فارسی
+			fiji hindi
+			français
+			frysk
+			furlan
+			gaeilge
+			gaelg
+			gagauz
+			gàidhlig
+			galego
+			贛語
+			ગુજરાતી
+			hakkâfa
+			хальмг
+			한국어
+			hawai`i
+			հայերեն
+			हिन्दी
+			hornjoserbsce
+			hrvatski
+			ido
+			ilokano
+			ইমার ঠারবিষ্ণুপ্রিয়া মণিপুরী
+			bahasa indonesia
+			interlingua
+			ирон
+			isixhosa
+			isizulu
+			íslenska
+			italiano
+			עברית
+			basa jawa
+			kalaallisut
+			ಕನ್ನಡ
+			kapampangan
+			къарачаймалкъар
+			ქართული
+			қазақша
+			kernowek
+			kiswahili
+			kreyòl ayisyen
+			kurdî
+			latina
+			latviešu
+			lëtzebuergesch
+			lietuvių
+			ligure
+			limburgs
+			lojban
+			magyar
+			македонски
+			malagasy
+			മലയാളം
+			malti
+			मराठी
+			მარგალური
+			مصرى
+			مازِرونی
+			bahasa melayu
+			mirandés
+			монгол
+			မြန်မာဘာသာ
+			nāhuatl
+			nederlands
+			nedersaksisch
+			नेपाली
+			नेपाल भाषा
+			日本語
+			nordfriisk
+			‪norsk bokmål‬
+			‪norsk nynorsk‬
+			occitan
+			олык марий
+			ozbek
+			pangasinan
+			پنجابی
+			پښتو
+			picard
+			piemontèis
+			plattdüütsch
+			português
+			qaraqalpaqsha
+			ripoarisch
+			română
+			runa simi
+			русиньскый
+			русский
+			саха тыла
+			sámegiella
+			gagana samoa
+			संस्कृतम्
+			sardu
+			scots
+			shqip
+			sicilianu
+			simple english
+			slovenčina
+			slovenščina
+			ślůnski
+			soomaaliga
+			کوردی
+			српски  srpski
+			srpskohrvatski  српскохрватски
+			basa sunda
+			suomi
+			svenska
+			tagalog
+			தமிழ்
+			taqbaylit
+			татарчаtatarça
+			ไทย
+			ትግርኛ
+			tsetsêhestâhese
+			türkçe
+			українська
+			اردو
+			ئۇيغۇرچە  uyghurche‎
+			vahcuengh
+			vèneto
+			vepsän kel
+			tiếng việt
+			volapük
+			võro
+			walon
+			文言
+			winaray
+			ייִדיש
+			yorùbá
+			粵語
+			zazaki
+			zeêuws
+			žemaitėška
+			中文
+		
+	
+
+
+
+			
+		
+		
+		
+							
+											 tę stronę ostatnio zmodyfikowano 2339 29 mar 2012
+											tekst udostępniany na licencji creative commons uznanie autorstwa na tych samych warunkach z możliwością obowiązywania dodatkowych ograniczeń
+zobacz szczegółowe informacje o warunkach korzystania
+									
+							
+											zasady zachowania poufności
+											o wikipedii
+											korzystasz z wikipedii tylko na własną odpowiedzialność
+											wersja na komórkę
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+		
+ifwindowmw
+mwloaderloadmediawikiusermediawikipagereadymediawikilegacymwsuggestextgadgetmapsextgadgetenhancedsearchextgadgetheadingiconsextgadgetreftoolbarextgadgeteditbuttonsextgadgeteditsummariesextgadgetmysandboxextgadgeteditfirstsectionextgadgeteditsummarywarningextgadgetwikibugsextgadgetnuxtbkeysextgadgetenhanceduploadextgadgetfeaturedarticleslinksextgadgetmodifysectionstyleextgadgetsmallbibliographyextgadgetgeonoticeextvectorcollapsiblenavextvectorcollapsibletabsextvectoreditwarningextvectorsimplesearchextflaggedrevsadvanced null true
+
+
+
+
+	
+

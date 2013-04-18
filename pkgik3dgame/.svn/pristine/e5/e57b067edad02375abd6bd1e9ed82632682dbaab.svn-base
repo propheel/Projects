@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarGame", "WarGame\WarGame\WarGame.csproj", "{FB8ED599-8CA3-4C4F-A3E3-57EF107698A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarGameContent", "WarGame\WarGameContent\WarGameContent.contentproj", "{A4A4CD63-6E2D-4629-9B23-B50B998E31E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarGameContentPipeline", "WarGameContentPipeline\WarGameContentPipeline.csproj", "{74629EF9-6A62-439F-AC94-6F322BF68720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8ED599-8CA3-4C4F-A3E3-57EF107698A5}.Debug|x86.ActiveCfg = Debug|x86
+		{FB8ED599-8CA3-4C4F-A3E3-57EF107698A5}.Debug|x86.Build.0 = Debug|x86
+		{FB8ED599-8CA3-4C4F-A3E3-57EF107698A5}.Release|x86.ActiveCfg = Release|x86
+		{FB8ED599-8CA3-4C4F-A3E3-57EF107698A5}.Release|x86.Build.0 = Release|x86
+		{A4A4CD63-6E2D-4629-9B23-B50B998E31E6}.Debug|x86.ActiveCfg = Debug|x86
+		{A4A4CD63-6E2D-4629-9B23-B50B998E31E6}.Release|x86.ActiveCfg = Release|x86
+		{74629EF9-6A62-439F-AC94-6F322BF68720}.Debug|x86.ActiveCfg = Debug|x86
+		{74629EF9-6A62-439F-AC94-6F322BF68720}.Debug|x86.Build.0 = Debug|x86
+		{74629EF9-6A62-439F-AC94-6F322BF68720}.Release|x86.ActiveCfg = Debug|x86
+		{74629EF9-6A62-439F-AC94-6F322BF68720}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
